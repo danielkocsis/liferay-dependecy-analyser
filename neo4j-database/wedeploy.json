@@ -1,0 +1,10 @@
+{
+  "id": "neo4j",
+  "image": "neo4j",
+  "env": {
+  },
+  "port": 7474,
+  "volumes": {
+    "data": "/neo4j/data"
+  }
+}
