@@ -1,0 +1,3 @@
+rootProject.name = 'laocoon-dependency-analyser'
+
+include 'liferay-dependency-analyser-service'
