@@ -34,8 +34,6 @@ public class PackageMapper implements Mapper<Package, String> {
             return Optional.empty();
         }
 
-        log.debug("Package: " + model);
-
         final String[] packageDefinitions = model.split(";");
 
         String version = null;
@@ -59,8 +57,6 @@ public class PackageMapper implements Mapper<Package, String> {
 
             name = packageDefinition;
         }
-
-        log.debug("Name: " + name + ", Version: " + version + "\n");
 
         return Optional.of(new Package(name, version));
     }

@@ -51,8 +51,6 @@ public class ModuleMapper implements Mapper<Module, String> {
         if (attributes.containsKey("Import-Package")) {
             String importPackageAttribute = attributes.get("Import-Package");
 
-            log.debug("Import-Package: " + importPackageAttribute);
-
             final List<Package> importedPackages = packageMapper.mapAll(
                 importPackageAttribute);
 
@@ -61,8 +59,6 @@ public class ModuleMapper implements Mapper<Module, String> {
 
         if (attributes.containsKey("Export-Package")) {
             String exportPackageAttribute = attributes.get("Export-Package");
-
-            log.debug("Export-Package: " + exportPackageAttribute);
 
             final List<Package> exportedPackages = packageMapper.mapAll(
                 exportPackageAttribute);

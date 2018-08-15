@@ -20,7 +20,7 @@ public class LiferayTelnetConnection implements AutoCloseable {
 
     public void connect(final String host, final int port) {
         try {
-            log.debug("Attempting to connect to Liferay...");
+            log.debug("Attempting to connect to Liferay GoGo shell...");
 
             telnetClient.setConnectTimeout(10000);
             telnetClient.connect(host, port);
@@ -31,19 +31,25 @@ public class LiferayTelnetConnection implements AutoCloseable {
             inputStream = telnetClient.getInputStream();
             outputStream = new PrintStream(telnetClient.getOutputStream());
 
-            String s = readUntil(PROMPT);
-
-            log.debug("Welcome: " + s);
+            readUntil(PROMPT);
 
             sendCommand("stty -echo");
-        } catch (IOException e) {
-            log.error("Communication exception", e);
+
+            log.debug("Successfully connected to Liferay GoGo shell...");
+        } catch (Exception e) {
+            log.error(
+                "Unable to connect to Liferay GoGo shell. " +
+                    "Communication exception", e);
+
+            throw new RuntimeException("Unable to connect to Liferay");
         }
     }
 
     @Override
     public void close() throws Exception {
         telnetClient.disconnect();
+
+        log.debug("Disconnected from Liferay GoGo shell...");
     }
 
     public String sendCommand(String command) {
@@ -82,7 +88,7 @@ public class LiferayTelnetConnection implements AutoCloseable {
 
         String response = stringBuilder.toString();
 
-        log.debug("Telnet response received:\n" + response);
+        log.info("Telnet response received:\n" + response);
 
         return response;
     }
@@ -92,7 +98,7 @@ public class LiferayTelnetConnection implements AutoCloseable {
             outputStream.println(value);
             outputStream.flush();
 
-            log.debug("Telnet message sent: " + value);
+            log.info("Telnet message sent: " + value);
         } catch (Exception e) {
             log.error("Unable to write to Telnet connection", e);
         }

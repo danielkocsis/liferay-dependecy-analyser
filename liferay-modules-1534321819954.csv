@@ -1,0 +1,954 @@
+Apache ServiceMix :: Specs :: Annotation API 1.3
+Liferay Map Common
+Liferay Asset Tags Navigation API
+Liferay Frontend Theme Styled
+Liferay Site Navigation Menu Item API
+Liferay Frontend CSS Common
+Liferay Frontend JS Polyfill Babel Web
+Liferay Product Navigation Simulation API
+Liferay Dynamic Data Mapping Lang
+Liferay Petra IO Delta
+Liferay Asset Tags API
+Commons IO
+Liferay Site Navigation Lang
+Liferay Wiki Engine Lang
+Liferay Portal Scripting Groovy Context API
+Liferay Social User Statistics API
+Liferay Portal Mobile Device Detection FiftyOneDegrees API
+Liferay Staging Lang
+Liferay Frontend JS Metal Web
+Liferay Roles Admin API
+Liferay Frontend Editor API
+Liferay OAuth2 Provider Scope SPI
+Liferay Frontend JS Node Shims
+Liferay User Groups Admin API
+Liferay Portal Workflow Lang
+Liferay Portal Bundle Blacklist API
+Liferay Portal OSGi Web Jasper Plugins Taglib
+Liferay Frontend JS AUI Web
+OSGi System Bundle
+Liferay Social Activities API
+Liferay Meris API
+Liferay Portal Settings Lang
+Liferay Adaptive Media Image JS Web
+Liferay Ratings API
+Liferay Blogs Recent Bloggers API
+Liferay Portal OSGi Web WAB Generator API
+Liferay Frontend Theme Unstyled
+Liferay Portal Target Platform Indexer API
+Liferay Site Navigation Admin API
+Liferay Asset Categories Navigation API
+Liferay Portal OSGi Debug API
+Liferay OAuth2 Provider Scope API
+Liferay Portal Spring Extender API
+Liferay Portal Output Stream Container API
+Liferay Password Policies Admin API
+Liferay Layout Admin API
+Liferay Portal Portlet Bridge Soy API
+Liferay Journal Lang
+Liferay Site Navigation Language API
+JSR 353 (JSON Processing) API
+Liferay Product Navigation Simulation Theme Contributor
+Liferay Announcements API
+Liferay Reading Time Editor Plugin
+Liferay Portal Component Blacklist API
+Liferay Portal Remote JAXRS Whiteboard JAXB JSON
+org.osgi:org.osgi.util.function
+Liferay Layout Set Prototype API
+Liferay Layout Prototype API
+Liferay Portal Executor,OSGi System Bundle
+Liferay Portal URL Builder API,OSGi System Bundle
+Liferay Journal Content Asset Addon Entry API,OSGi System Bundle
+Liferay XStream Configurator API,OSGi System Bundle
+Liferay Portal Custom JSP Bag API,OSGi System Bundle
+Liferay Portlet Configuration Icon Maximize,OSGi System Bundle
+Liferay Frontend Theme Favicon Servlet,OSGi System Bundle
+Liferay Asset Display Implementation,Liferay Asset Display API
+Liferay Portlet Configuration Icon Edit Defaults,OSGi System Bundle
+Expression Language 3.0,Expression Language 3.0
+Liferay Product Navigation Product Menu Theme Contributor,OSGi System Bundle
+Liferay Portlet Configuration Icon Edit Guest,OSGi System Bundle
+Liferay Comment Analytics,OSGi System Bundle
+Liferay Staging Portlet Data Handler,OSGi System Bundle
+Liferay Portal Init Servlet Filter,OSGi System Bundle
+Liferay Commerce Admin API,OSGi System Bundle
+Liferay Organizations Item Selector API,Liferay Item Selector API
+Liferay Frontend CSS Web,OSGi System Bundle
+Liferay External Reference API,OSGi System Bundle
+Liferay Layout Apio API,Liferay Apio Architect API
+Liferay Portal DAO ORM Custom SQL API,OSGi System Bundle
+Liferay Commerce Health Status API,OSGi System Bundle
+Liferay Commerce Product Item Selector API,Liferay Item Selector API
+Liferay Map API,OSGi System Bundle
+Liferay Portal Configuration Extender,OSGi System Bundle
+Liferay Upload API,OSGi System Bundle
+Liferay Configuration Admin API,OSGi System Bundle
+Liferay Portal Weblogic Support,OSGi System Bundle
+Liferay Text Localizer Address API,OSGi System Bundle
+Liferay Hello Soy Navigation Web,OSGi System Bundle
+Liferay Person Apio API,Liferay Apio Architect API
+Liferay Portal JMX API,OSGi System Bundle
+Liferay Portal Settings API,OSGi System Bundle
+Liferay Portal Instance Lifecycle API,OSGi System Bundle
+Liferay OSGi Felix File Install Configuration Cleaner,OSGi System Bundle
+Liferay ImageIO Plugins,OSGi System Bundle
+Liferay Portal Scripting Implementation,OSGi System Bundle
+Liferay Workflow Apio API,Liferay Apio Architect API
+Liferay Fragment Item Selector API,Liferay Item Selector API
+Liferay Social Bookmarks API,OSGi System Bundle
+Liferay Petra Doulos,OSGi System Bundle
+Liferay Petra Mail Template,OSGi System Bundle
+Liferay Petra Model Adapter,OSGi System Bundle
+Liferay Portal Template Soy Context Contributor,OSGi System Bundle
+Liferay Commerce User Segment Item Selector API,Liferay Item Selector API
+Liferay Portal Scripting API,OSGi System Bundle
+Liferay Asset API,OSGi System Bundle
+Liferay Portal Security Audit Implementation,OSGi System Bundle
+Liferay Asset Web,OSGi System Bundle
+Liferay Portlet Configuration Icon Edit,OSGi System Bundle
+Liferay Portal Security Export Import API,OSGi System Bundle
+Liferay Portal Class Loader Tracker,OSGi System Bundle
+Liferay Portlet Configuration Icon Close,OSGi System Bundle
+Liferay Frontend Editor Lang,OSGi System Bundle
+Liferay Portal OSGi Web Servlet API,OSGi System Bundle
+Liferay Portlet Configuration Icon Minimize,OSGi System Bundle
+Liferay Portal OSGi Web WAB Spring Bridge API,OSGi System Bundle
+Liferay Commerce Organization API,OSGi System Bundle
+Liferay Blog Apio API,Liferay Apio Architect API
+Liferay Announcements Editor Configuration,OSGi System Bundle
+Woodstox XML-processor,OSGi System Bundle
+Liferay Asset Display API,OSGi System Bundle
+Liferay Portal Background Task Web,OSGi System Bundle
+Liferay Comment Sanitizer,OSGi System Bundle
+Liferay Message Boards Parser BBCode,OSGi System Bundle
+Liferay Social Bookmarks Analytics,OSGi System Bundle
+Liferay Product Navigation Control Menu Theme Contributor,OSGi System Bundle
+Liferay Blogs Item Selector API,Liferay Item Selector API
+Liferay Portlet Configuration Icon Locator Implementation,OSGi System Bundle
+Liferay Portal LPKG Deployer API,OSGi System Bundle
+Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Organization Apio API,Liferay Apio Architect API
+Stax2 API,OSGi System Bundle
+Liferay Comment Ratings Definition,OSGi System Bundle
+Liferay Asset Display Page Item Selector API,Liferay Item Selector API
+Liferay Document Library Repository Search,OSGi System Bundle
+Liferay Portal Security SSO Token API,OSGi System Bundle
+Liferay Frontend Image Editor API,OSGi System Bundle
+Liferay User Groups Admin Item Selector API,Liferay Item Selector API
+Liferay Vocabulary Apio API,Liferay Apio Architect API
+Liferay Analytics API,Liferay Analytics API
+Liferay Petra JSON Web Service Client,OSGi System Bundle
+Liferay Ratings Analytics,OSGi System Bundle
+Liferay Dynamic Data Mapping Form Analytics,OSGi System Bundle
+Liferay Portal Instances API,OSGi System Bundle
+Apache Felix File Install,OSGi System Bundle
+org.osgi:org.osgi.service.metatype,OSGi System Bundle
+Liferay Comment API,Liferay Message Boards API
+Liferay Portal Language Extender,OSGi System Bundle
+Liferay Portal Workflow API,OSGi System Bundle
+Liferay Asset Publisher API,OSGi System Bundle
+Liferay Web Page Element Apio API,Liferay Apio Architect API
+Liferay Layout Item Selector API,Liferay Item Selector API
+Liferay Document Library Analytics,OSGi System Bundle
+Liferay Site Apio API,Liferay Apio Architect API
+Liferay Portal Log4j Extender,OSGi System Bundle
+Liferay Knowledge Base Markdown Converter API,Liferay Knowledge Base Markdown Converter API
+Liferay Commerce User API,OSGi System Bundle
+Liferay Category Apio API,Liferay Apio Architect API
+Liferay Layout API,OSGi System Bundle
+Liferay Portal Remote SOAP Extender API,OSGi System Bundle
+Liferay Portal POP Notifications,OSGi System Bundle
+Liferay Portal Template Soy API,OSGi System Bundle
+Liferay Portlet Configuration Icon Help,OSGi System Bundle
+Liferay Commerce Lang,OSGi System Bundle
+Liferay Portal Relationship API,OSGi System Bundle
+Liferay Folder Apio API,Liferay Apio Architect API
+Liferay Knowledge Base Item Selector API,Liferay Item Selector API
+Liferay Keyword Apio API,Liferay Apio Architect API
+Liferay Comment Apio API,Liferay Apio Architect API
+Liferay Frontend JS Loader Modules Extender API,OSGi System Bundle
+Liferay Adaptive Media Image Item Selector API,Liferay Item Selector API
+Liferay Portal Configuration Upgrade API,OSGi System Bundle
+Liferay Media Object Apio API,Liferay Apio Architect API
+Liferay Adaptive Media Demo Data Creator API,Liferay Adaptive Media Image API
+Liferay Staging Security,OSGi System Bundle
+Liferay Portlet Configuration Icon Print,OSGi System Bundle
+Liferay Frontend JS Web,OSGi System Bundle
+Liferay Staging API,OSGi System Bundle
+Liferay Portal Security Audit Event Generators API,OSGi System Bundle
+Liferay Comment Editor Configuration,OSGi System Bundle
+Liferay Site Navigation Item Selector API,Liferay Item Selector API
+org.osgi:org.osgi.util.promise,Apache Felix Declarative Services
+Liferay Journal Item Selector API,Liferay Item Selector API
+Liferay Commerce Item Selector API,Liferay Item Selector API
+Liferay Portlet Configuration Icon Refresh,OSGi System Bundle
+Liferay Journal Editor Configuration,OSGi System Bundle
+Liferay Users Admin Item Selector API,Liferay Item Selector API
+Liferay WebSocket Whiteboard,OSGi System Bundle
+Liferay Site Item Selector API,Liferay Item Selector API
+Liferay Portal Social Activity Extender,OSGi System Bundle
+Liferay Asset Entry Rel API,Liferay Asset Entry Rel API,OSGi System Bundle
+Liferay Frontend Image Editor Capability Brightness,OSGi System Bundle,Liferay Frontend Image Editor API
+Liferay Asset Publisher Layout Prototype,Liferay Portal Upgrade API,OSGi System Bundle
+Http Services Servlet,org.osgi.service.http,OSGi System Bundle
+Liferay Commerce Shipping Origin Locator Warehouse,OSGi System Bundle,Liferay Commerce API
+Liferay Dynamic Data Mapping IO,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Dynamic Data Mapping Form Values Query,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Frontend Taglib Utilities,OSGi System Bundle,Liferay Frontend JS Loader Modules Extender API
+Liferay Document Library Repository Authorization API,Liferay Document Library Repository Authorization API,OSGi System Bundle
+Liferay Trash API,Liferay Trash API,OSGi System Bundle
+Liferay Adaptive Media API,Liferay Adaptive Media API,OSGi System Bundle
+Liferay Expando Taglib,Liferay Util Taglib,OSGi System Bundle
+Liferay Portal Security SSO OpenID Implementation,OSGi System Bundle,Liferay Portal Security SSO OpenID API
+Liferay Dynamic Data Mapping Form Field Type,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Roles Selector Web,Liferay Frontend Taglib Clay,OSGi System Bundle
+Liferay Portal Workflow UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Mentions API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Wiki Engine Text,Liferay Wiki API,OSGi System Bundle
+Liferay Google Maps Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Login Authentication OpenID Connect Web,OSGi System Bundle,Liferay Portal Security SSO OpenID Connect API
+Liferay Social Bookmark Plusone,Liferay Social Bookmarks API,OSGi System Bundle
+Liferay Document Library File Rank API,Liferay Document Library File Rank API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Grid,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Fragment Entry Processor Portlet,Liferay Fragment API,OSGi System Bundle
+Liferay Adaptive Media Document Library Web,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Layout UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Push Notifications Sender Microsoft,Liferay Push Notifications API,OSGi System Bundle
+Liferay Layout Type Controller Full Page Application,Liferay Util Taglib,OSGi System Bundle
+Liferay Social Bookmark LinkedIn,Liferay Social Bookmarks API,OSGi System Bundle
+Liferay Staging Configuration Web,Liferay Trash API,OSGi System Bundle
+Liferay Chat API,Liferay Chat API,OSGi System Bundle
+Liferay Item Selector Criteria API,Liferay Item Selector API,OSGi System Bundle
+Liferay Polls API,Liferay Polls API,OSGi System Bundle
+Liferay Portal Store CMIS,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal Output Stream Container,OSGi System Bundle,Liferay Portal Output Stream Container API
+Liferay Dynamic Data Mapping Type Key Value,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Numeric,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Social Bookmark Facebook,Liferay Social Bookmarks API,OSGi System Bundle
+Liferay Portal Rules Engine API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Frontend Image Editor Integration Document Library,Liferay Document Library API,OSGi System Bundle
+Liferay Fragment Implementation,Liferay Fragment API,OSGi System Bundle
+Apache Aries JAX-RS Specification API,Apache Aries JAX-RS Specification API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Editor,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay OSGi Utilities,Apache Felix Declarative Services,OSGi System Bundle
+Liferay Adaptive Media Item Selector Upload Web,Liferay Adaptive Media Image Item Selector API,Liferay Item Selector API
+Liferay Invitation Invite Members API,Liferay Invitation Invite Members API,OSGi System Bundle
+JavaServer Pages(TM) API,Expression Language 3.0,OSGi System Bundle
+Console plug-in,Apache Felix Gogo Runtime,OSGi System Bundle
+Liferay Site Navigation API,Liferay Site Navigation API,OSGi System Bundle
+Liferay Subscription API,Liferay Subscription API,OSGi System Bundle
+Liferay Asset Entry Query Processor Custom User Attributes,OSGi System Bundle,Liferay Asset API
+Liferay Dictionary Web,Liferay Portal Upgrade API,OSGi System Bundle
+Apache Felix Gogo Shell,Apache Felix Gogo Runtime,OSGi System Bundle
+Liferay Portal Configuration Module Configuration,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Commerce Tax API,Liferay Commerce Tax API,OSGi System Bundle
+Liferay Contacts API,Liferay Contacts API,OSGi System Bundle
+Liferay Portal License Deployer,Apache Felix File Install,OSGi System Bundle
+Liferay Commerce Application List,OSGi System Bundle,Liferay Application List API
+Liferay Portal Search Elasticsearch 6 API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Date,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Dynamic Data Mapping Form Evaluator Implementation,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Social Bookmark Twitter,Liferay Social Bookmarks API,OSGi System Bundle
+Liferay Adaptive Media Content Transformer Implementation,Liferay Adaptive Media Content Transformer API,OSGi System Bundle
+Liferay Document Library Repository External API,Liferay Document Library Repository External API,OSGi System Bundle
+Liferay Portal Profile API,Apache Felix Declarative Services,OSGi System Bundle
+Apache Felix Configuration Admin Service,OSGi System Bundle,Apache Felix Configuration Admin Service
+Liferay Portal Compound Session ID,Apache Felix Declarative Services,OSGi System Bundle
+Liferay Portal URL Builder Implementation,OSGi System Bundle,Liferay Portal URL Builder API
+Liferay Dynamic Data Mapping Type Select,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Product Navigation Simulation Device,OSGi System Bundle,Liferay Application List API
+Liferay Asset Display Page API,OSGi System Bundle,Liferay Asset Display Page API
+Liferay Dynamic Data Mapping Type Checkbox Multiple,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Portal Workflow Kaleo Definition API,OSGi System Bundle,Liferay Portal Workflow Kaleo Definition API
+Liferay Portal Security SSO CAS API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Password,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Adaptive Media Upload,Liferay Upload API,OSGi System Bundle
+Liferay Dynamic Data Mapping Validator,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Roles Item Selector API,Liferay Item Selector API,OSGi System Bundle
+Liferay Adaptive Media Document Library Item Selector Web,Liferay Adaptive Media Image Item Selector API,Liferay Item Selector API
+Liferay Layout Type Controller Node,Liferay Util Taglib,OSGi System Bundle
+Liferay Document Library Sync API,Liferay Document Library Sync API,OSGi System Bundle
+Liferay Asset Tag Stats API,OSGi System Bundle,Liferay Asset Tag Stats API
+Liferay Staging Implementation,OSGi System Bundle,Liferay Staging API
+Liferay Commerce Notification API,Liferay Commerce Notification API,OSGi System Bundle
+Liferay Comment Page Comments Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Portal Inactive Request Handler,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal Security Audit Storage API,Liferay Portal Security Audit Storage API,OSGi System Bundle
+Liferay Portal Apio API,Liferay Apio Architect API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Checkbox,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Notifications UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Site Teams UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Users Admin UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Commerce Elasticsearch6,Liferay Portal Search Elasticsearch 6 API,OSGi System Bundle
+Liferay Portal Mobile Device Recognition Implementation,Liferay Mobile Device Rules API,OSGi System Bundle
+Liferay Asset Display Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Export Import Changeset API,Liferay Export Import Changeset API,OSGi System Bundle
+Liferay Portal Lock API,OSGi System Bundle,Liferay Portal Lock API
+Liferay Asset Category Property API,OSGi System Bundle,Liferay Asset Category Property API
+Liferay Quick Note Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Frontend Taglib Clay Sample Web,Liferay Frontend Taglib Clay,OSGi System Bundle
+Liferay Portal Cache Implementation,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Frontend Image Editor Capability Saturation,OSGi System Bundle,Liferay Frontend Image Editor API
+Liferay Portal Security AntiSamy,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Journal Ratings Definition,OSGi System Bundle,Liferay Journal API
+Liferay Apio Architect API,Liferay Apio Architect API,OSGi System Bundle
+Liferay Portal Search Engine Adapter API,OSGi System Bundle,Liferay Portal Search Engine Adapter API
+Liferay Portal Configuration Persistence API,OSGi System Bundle,Apache Felix Configuration Admin Service
+Liferay Frontend Compatibility IE,OSGi System Bundle,Liferay Portal URL Builder API
+Liferay Social Requests Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay User Associated Data API,Liferay User Associated Data API,OSGi System Bundle
+Apache Felix Bundle Repository,Apache Felix Bundle Repository,OSGi System Bundle
+Liferay Network Utilities Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Social Activity API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Wiki Engine HTML,Liferay Wiki API,OSGi System Bundle
+Liferay Fragment Entry Processor Nullable,Liferay Fragment API,OSGi System Bundle
+Liferay Knowledge Base Markdown Converter Implementation,Liferay Knowledge Base Markdown Converter API,OSGi System Bundle
+Liferay Dynamic Data Mapping Expression,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Apache Felix Dependency Manager Shell,Apache Felix Gogo Runtime,OSGi System Bundle
+Liferay Asset Link Service,Liferay Export Import API,OSGi System Bundle
+Liferay Portal Security SSO OpenID API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Aggregate Rating Apio API,Liferay Apio Architect API,Liferay Portal Apio API
+Liferay Apio Architect URI Mapper Implementation,Liferay Apio Architect API,Apache Aries JAX-RS Specification API
+Liferay Frontend Image Editor Capability Resize,OSGi System Bundle,Liferay Frontend Image Editor API
+Liferay Alloy MVC,Expression Language 3.0,OSGi System Bundle
+Liferay Calendar API,Liferay Calendar API,OSGi System Bundle
+Liferay Portal Spring Extender Implementation,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Portal Security SSO Google API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portlet Configuration Sharing Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Hello Velocity Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Hello Soy Web,Liferay Portal Portlet Bridge Soy API,OSGi System Bundle
+Liferay Asset Tags Compiler Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Hello World Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Portal Background Task API,Liferay Portal Background Task API,OSGi System Bundle
+Liferay Ratings Page Ratings Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Apio Architect Exception Mapper Implementation,Liferay Apio Architect API,Apache Aries JAX-RS Specification API
+Apache Commons FileUpload,Commons IO,OSGi System Bundle
+Liferay Dynamic Data Mapping Data Provider Implementation,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Portal Cache Ehcache Provider,Liferay Portal Cache Ehcache Provider,OSGi System Bundle
+Liferay Frontend JS Minifier,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Apache Felix Dependency Manager,org.osgi:org.osgi.service.metatype,OSGi System Bundle
+Liferay Portal DAO ORM Custom SQL Implementation,Liferay Portal DAO ORM Custom SQL API,OSGi System Bundle
+Apache Felix Gogo Command,Apache Felix Gogo Runtime,OSGi System Bundle
+Liferay Portal Security Audit Event Generators User Management,OSGi System Bundle,Liferay Portal Security Audit Event Generators API
+Liferay Portal Security SSO Facebook Connect API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Login Authentication Google Web,Liferay Portal Security SSO Google API,OSGi System Bundle
+Liferay Organizations API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Document Library UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Document Library,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Login Authentication OpenID Web,OSGi System Bundle,Liferay Portal Security SSO OpenID API
+Liferay Portal OSGi Debug Implementation,OSGi System Bundle,Liferay Portal OSGi Debug API
+Liferay Microsoft Translator,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal OSGi Web WAB Reference Support,Liferay Portal OSGi Web WAB Generator API,OSGi System Bundle
+Liferay Portal Configuration Settings,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal Security SSO OpenSSO API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Radio,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay RSS Implementation,Liferay RSS API,OSGi System Bundle
+Liferay Analytics Data Binding Implementation,Liferay Analytics API,OSGi System Bundle
+Liferay Product Navigation User Personal Bar Web,OSGi System Bundle,Liferay Application List API
+Liferay Layout Page Template API,OSGi System Bundle,Liferay Layout Page Template API
+Liferay Product Navigation Product Menu API,OSGi System Bundle,Liferay Application List API
+Liferay Portal Instance Lifecycle Implementation,Liferay Portal Instance Lifecycle API,OSGi System Bundle
+Liferay Announcements UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Fragment Entry Processor Editable,Liferay Fragment API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Validation,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Text,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Reading Time Web,Liferay Reading Time API,OSGi System Bundle
+Liferay Portal UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Password Policies Admin UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Product Navigation Control Menu Implementation,Liferay Product Navigation Control Menu API,OSGi System Bundle
+Liferay Flash Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Flags API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal Configuration Cluster,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Frontend Image Editor Capability Crop,OSGi System Bundle,Liferay Frontend Image Editor API
+Liferay Dynamic Data Mapping Type Field Set,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay User Groups Admin UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Login Authentication Facebook Connect Web,Liferay Portal Security SSO Facebook Connect API,OSGi System Bundle
+Liferay Product Navigation Control Menu API,Liferay Product Navigation Control Menu API,OSGi System Bundle
+Liferay HTML Preview API,OSGi System Bundle,Liferay HTML Preview API
+Liferay Product Navigation Control Panel,OSGi System Bundle,Liferay Application List API
+Liferay Adaptive Media Image Web,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Adaptive Media Content Transformer API,Liferay Adaptive Media Content Transformer API,OSGi System Bundle
+Liferay Portal Security SSO NTLM API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal Target Platform Indexer Implementation,Liferay Portal Target Platform Indexer API,OSGi System Bundle
+Liferay Portlet Display Template API,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay YouTube Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay HTML Preview Processor Image,OSGi System Bundle,Liferay HTML Preview API
+Liferay OAuth2 Provider Scope Liferay API,Liferay OAuth2 Provider Scope SPI,OSGi System Bundle
+Liferay Portal Store S3,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Commerce User Segment API,OSGi System Bundle,Liferay Commerce User Segment API
+Liferay Document Library Repository CMIS API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal Scripting Groovy,OSGi System Bundle,Liferay Portal Scripting API
+Liferay Reading Time API,Liferay Reading Time API,OSGi System Bundle
+Liferay Portlet Configuration Toolbar Contributor Locator Implementation,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Document Library Content API,Liferay Document Library Content API,OSGi System Bundle
+Liferay Adaptive Media Blogs Web Fragment,Liferay Adaptive Media Content Transformer API,OSGi System Bundle
+Liferay Weather Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Portal Reports Engine API,OSGi System Bundle,Liferay Portal Reports Engine API
+Liferay Friendly URL API,OSGi System Bundle,Liferay Friendly URL API
+Liferay Portal Model Relationship Document Library Implementation,OSGi System Bundle,Liferay Portal Relationship API
+Liferay Portal Security SSO Facebook Connect Implementation,Liferay Portal Security SSO Facebook Connect API,OSGi System Bundle
+Liferay Wiki Engine Creole,Liferay Wiki API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Options,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Portal Cache API,OSGi System Bundle,Liferay Portal Cache API
+Liferay Dynamic Data Mapping Form Builder,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Frontend Taglib Chart Sample Web,OSGi System Bundle,Liferay Frontend Taglib Chart
+Liferay Marketplace API,OSGi System Bundle,Liferay Marketplace API
+Liferay Push Notifications API,Liferay Push Notifications API,OSGi System Bundle
+Liferay Loan Calculator Web,Liferay Portal Upgrade API,OSGi System Bundle
+Meta Type,org.osgi:org.osgi.service.metatype,OSGi System Bundle
+Liferay RSS API,Liferay RSS API,OSGi System Bundle
+Liferay Portal Scripting BeanShell,OSGi System Bundle,Liferay Portal Scripting API
+Liferay Frontend Image Editor Capability Effects,OSGi System Bundle,Liferay Frontend Image Editor API
+Liferay Frontend Image Editor Capability Contrast,OSGi System Bundle,Liferay Frontend Image Editor API
+Liferay Dynamic Data Mapping Form Values Factory,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Frontend Theme Contributor Extender,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Portal Validation API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Frontend Image Editor Capability Rotate,OSGi System Bundle,Liferay Frontend Image Editor API
+Liferay Portal Profile Implementation,Liferay Portal Profile API,OSGi System Bundle
+Liferay Adaptive Media Blogs Item Selector Web,Liferay Adaptive Media Image Item Selector API,Liferay Item Selector API
+Liferay Dynamic Data Mapping Data Provider Instance,Liferay Dynamic Data Mapping API,OSGi System Bundle
+Liferay Screens API,Liferay Dynamic Data Lists API,OSGi System Bundle
+Liferay Portal Store File System,Liferay Portal Configuration Metatype API,OSGi System Bundle
+org.osgi.service.http,org.osgi.service.http,OSGi System Bundle
+Liferay Portal Store DB,Liferay Document Library Content API,OSGi System Bundle
+Liferay Microblogs API,Liferay Microblogs API,OSGi System Bundle
+Liferay Unit Converter Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Password Generator Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Portal OSGi Web Servlet Context Helper API,Liferay Portal OSGi Web Servlet Context Helper API,OSGi System Bundle
+Liferay Social Activities Taglib,Liferay Util Taglib,OSGi System Bundle
+Liferay Asset Categories Selector Web,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Portlet Dependency Factory Implementation,OSGi System Bundle,Liferay Portal URL Builder API
+Liferay Export Import Changeset Service,Liferay Export Import Changeset API,OSGi System Bundle
+Liferay Roles UAD,Liferay User Associated Data API,OSGi System Bundle
+Liferay Portal Relationship Implementation,OSGi System Bundle,Liferay Portal Relationship API
+Liferay Portal Security Audit API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Mail Reader Service,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Mail Reader API
+Liferay Portal Security WeDeploy Auth Service,Liferay Portal Security WeDeploy Auth API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Dynamic Data Mapping Type Paragraph,Liferay Dynamic Data Mapping API,Liferay Portal Template Soy API,OSGi System Bundle
+Liferay Commerce User Service,Liferay Commerce User API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Frontend Taglib Utilities FreeMarker Contributor,Liferay Dynamic Data Mapping Taglib,Liferay Util Taglib,Liferay Staging Taglib
+Liferay Site Memberships Web,Liferay Frontend Taglib Clay,OSGi System Bundle,Liferay Application List API
+Apache Aries JAX-RS JAX-RS JAXB JSON,Apache Aries JAX-RS Specification API,OSGi System Bundle,Liferay Portal Remote JAXRS Whiteboard
+Liferay Site Service,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Site API
+Liferay Journal Content Asset Addon Entry Locales,Liferay Journal Content Asset Addon Entry API,OSGi System Bundle,Liferay Journal API
+Liferay Reading Time Service,Liferay Portal Spring Extender API,Liferay Reading Time API,OSGi System Bundle
+Liferay Message Boards Comment,Liferay Message Boards API,OSGi System Bundle,Liferay Comment API
+Liferay Portal Security Service Access Policy API,Liferay Portal Configuration Metatype API,Liferay Portal Security Service Access Policy API,OSGi System Bundle
+Liferay Portal Search Web API,Liferay Portal Search Web API,OSGi System Bundle,Liferay Portal Search API
+Liferay Commerce Wish List API,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce Wish List API
+Liferay Dynamic Data Mapping Form Renderer,Liferay Dynamic Data Mapping API,Liferay Portal Template Soy API,OSGi System Bundle
+Liferay Item Selector Implementation,Liferay Item Selector API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Marketplace Store Web,OSGi System Bundle,Liferay Marketplace API,Liferay Application List API
+Liferay Site API,OSGi System Bundle,Liferay Site API,Liferay Application List API
+Liferay Commerce Product Type Grouped API,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce Product Type Grouped API
+Liferay Frontend JS Bundle Config Extender,Apache Felix Declarative Services,OSGi System Bundle,Liferay OSGi Utilities
+Liferay License Manager Web,Liferay Portal Upgrade API,OSGi System Bundle,Liferay Application List API
+Liferay Web Proxy Web,Liferay Portal Upgrade API,Apache Felix Declarative Services,OSGi System Bundle
+Liferay Frontend Taglib Soy,Liferay Portal Template Soy API,Liferay Util Taglib,OSGi System Bundle
+Liferay Map Taglib,Liferay Map API,Liferay Util Taglib,OSGi System Bundle
+Liferay Item Selector Upload Web,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle
+Liferay Commerce Product Content API,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce Product Content API
+Liferay Portal Cache Single,Apache Felix Declarative Services,Liferay Portal Profile API,Liferay Portal Cache API
+Liferay Adaptive Media Image Content Transformer,Liferay Adaptive Media Content Transformer API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Portal Configuration Metatype Definitions Annotations,Liferay Portal Configuration Metatype API,org.osgi:org.osgi.service.metatype,OSGi System Bundle
+Liferay Fragment API,Liferay Fragment API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Knowledge Base API,Liferay Portal Configuration Metatype API,Liferay Knowledge Base API,OSGi System Bundle
+Liferay Portal Store Ignore Duplicates Wrapper,Apache Felix Declarative Services,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Commerce Discount Content Web,OSGi System Bundle,Liferay Commerce API,Liferay Commerce Discount API
+Liferay Push Notifications Sender Android,Liferay Portal Configuration Metatype API,Liferay Push Notifications API,OSGi System Bundle
+Liferay Wiki Engine Input Editor Common,Liferay Wiki API,Liferay Util Taglib,OSGi System Bundle
+Liferay Gogo Shell Web,Apache Felix Gogo Runtime,OSGi System Bundle,Liferay Application List API
+Liferay Nested Portlets Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Commerce Product Type Virtual Order API,Liferay Commerce Product Type Virtual Order API,OSGi System Bundle,Liferay Commerce API
+Liferay Portal Security Service Access Quota API,Liferay Portal Configuration Metatype API,Liferay Portal Security Service Access Quota API,OSGi System Bundle
+Liferay Commerce Product Content Category Web,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Asset Tags Selector Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Reading Time Taglib,Liferay Reading Time API,Liferay Util Taglib,OSGi System Bundle
+Liferay Social Activities Web,Liferay Portal Upgrade API,Liferay RSS API,OSGi System Bundle
+Liferay Dynamic Data Mapping Form Taglib,Liferay Dynamic Data Mapping API,Liferay Util Taglib,OSGi System Bundle
+Liferay Portal Configuration Persistence Implementation,OSGi System Bundle,Apache Felix Configuration Admin Service,Liferay Portal Configuration Persistence API
+Liferay Bookmarks API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Bookmarks API
+Liferay Application List API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Application List API
+Liferay Portlet Display Template Web,Liferay Dynamic Data Mapping API,OSGi System Bundle,Liferay Portlet Display Template API
+Liferay Text Localizer Taglib,Liferay Util Taglib,OSGi System Bundle,Liferay Text Localizer Address API
+Liferay OAuth2 Provider REST SPI,Apache Aries JAX-RS Specification API,OSGi System Bundle,Liferay OAuth2 Provider API
+Liferay Layout Prototype Implementation,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle
+Liferay Commerce Shipping Engine Fixed API,Liferay Commerce Shipping Engine Fixed API,OSGi System Bundle,Liferay Commerce API
+Liferay Portal Configuration Metatype API,Liferay Portal Configuration Metatype API,org.osgi:org.osgi.service.metatype,OSGi System Bundle
+Liferay Contacts UAD,Liferay User Associated Data API,Liferay Contacts API,OSGi System Bundle
+Liferay Layout Set Prototype Web,Liferay Layout Set Prototype API,OSGi System Bundle,Liferay Application List API
+Liferay Portal Instances Service,Liferay Portal Instances API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Export Import Changeset Web,Liferay Export Import API,Liferay Export Import Changeset API,OSGi System Bundle
+Liferay Commerce Cart Taglib,Liferay Frontend Taglib Soy,OSGi System Bundle,Liferay Commerce API
+Liferay Commerce Product Asset Categories Navigation Web,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Microblogs Web,Liferay Portal Upgrade API,Liferay Microblogs API,OSGi System Bundle
+Liferay Flags Web,Liferay Flags API,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Ratings Service,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle
+Liferay Adaptive Media Image Content Transformer Backwards Compatibility,Liferay Adaptive Media Content Transformer API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Portal Portlet Bridge Soy Implementation,Liferay Portal Template Soy API,Liferay Portal Portlet Bridge Soy API,OSGi System Bundle
+Liferay Portal Scripting JavaScript,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Scripting API
+Liferay Portal Remote JSON Web Service Extender,Apache Felix Declarative Services,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Push Notifications Sender Firebase,Liferay Portal Configuration Metatype API,Liferay Push Notifications API,OSGi System Bundle
+Liferay Portal Template XSL,Liferay Portal Configuration Metatype API,Apache Felix Declarative Services,OSGi System Bundle
+Liferay Currency Converter Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Push Notifications Sender SMS,Liferay Portal Configuration Metatype API,Liferay Push Notifications API,OSGi System Bundle
+Liferay Frontend Taglib Dynamic Section,Liferay Frontend Taglib Dynamic Section,Liferay Util Taglib,OSGi System Bundle
+Liferay Portal Workflow Kaleo API,Liferay Portal Workflow Kaleo API,OSGi System Bundle,Liferay Portal Workflow Kaleo Definition API
+Liferay Journal Content Asset Addon Entry Conversions,Liferay Journal Content Asset Addon Entry API,OSGi System Bundle,Liferay Journal API
+Liferay Frontend Taglib Form Navigator,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Frontend Taglib Form Navigator
+Liferay Message Boards UAD,Liferay User Associated Data API,Liferay Message Boards API,OSGi System Bundle
+Liferay Item Selector API,Liferay Upload API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Commerce Currency API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Commerce Currency API
+Liferay Password Policies Admin Implementation,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle
+Liferay Site Navigation Menu Item URL,Liferay Frontend Taglib,Liferay Site Navigation API,OSGi System Bundle
+Liferay Mail Reader API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Mail Reader API
+Liferay Apio Architect Implementation,Liferay Apio Architect API,Apache Aries JAX-RS Specification API,OSGi System Bundle
+Liferay Fragment Taglib,Liferay Fragment API,Liferay Util Taglib,OSGi System Bundle
+Liferay XSL Content Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Dynamic Data Lists API,Liferay Dynamic Data Mapping API,Liferay Dynamic Data Lists API,OSGi System Bundle
+Liferay Journal Terms Of Use,Liferay Dynamic Data Mapping API,OSGi System Bundle,Liferay Journal API
+Liferay Amazon Rankings Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Export Import API,Liferay Export Import API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Portal Security WeDeploy Auth API,Liferay Portal Security WeDeploy Auth API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Frontend Editor Simple Web,Liferay Util Taglib,Liferay Frontend Editor API,OSGi System Bundle
+Liferay Frontend CSS RTL Servlet,org.osgi.service.http,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Portal Scripting Python,Apache ServiceMix :: Specs :: Annotation API 1.3,OSGi System Bundle,Liferay Portal Scripting API
+Liferay Blogs UAD,Liferay User Associated Data API,Liferay Blogs API,OSGi System Bundle
+Apache Felix Gogo Runtime,Apache Felix EventAdmin,Apache Felix Gogo Runtime,OSGi System Bundle
+Liferay Portal Language Servlet Filter,org.osgi.service.http,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Journal Taglib,Liferay Util Taglib,OSGi System Bundle,Liferay Journal API
+Liferay Journal Content Asset Addon Entry Print,Liferay Journal Content Asset Addon Entry API,OSGi System Bundle,Liferay Journal API
+Liferay Portal Security SSO OpenID Connect API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Security SSO OpenID Connect API
+Liferay Message Boards Editor Configuration,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle
+Apache Felix EventAdmin,Apache Felix EventAdmin,org.osgi:org.osgi.service.metatype,OSGi System Bundle
+Liferay Portlet Configuration CSS Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal Scheduler Single,Apache Felix Declarative Services,Liferay Portal Profile API,OSGi System Bundle
+Liferay Adaptive Media Image Taglib,Liferay Util Taglib,OSGi System Bundle,Liferay Adaptive Media Image API
+social-bookmarks-hook,Liferay Portal OSGi Web WAB Spring Bridge API,OSGi System Bundle,Liferay Portal Remote Axis Extender
+Liferay Invitation Invite Members Web,Liferay Portal DAO ORM Custom SQL API,Liferay Invitation Invite Members API,OSGi System Bundle
+Liferay Portal Store Safe File Name Wrapper,Apache Felix Declarative Services,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Application List Taglib,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay RSS Taglib,Liferay RSS API,Liferay Util Taglib,OSGi System Bundle
+Liferay Bookmarks UAD,Liferay User Associated Data API,OSGi System Bundle,Liferay Bookmarks API
+Liferay Portal OSGi Web WAB Generator Implementation,Liferay Portal OSGi Web WAB Generator API,Apache Felix File Install,OSGi System Bundle
+Liferay Portal Store JCR,Liferay Portal Configuration Metatype API,Commons IO,OSGi System Bundle
+Liferay Document Library API,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Wiki UAD,Liferay User Associated Data API,Liferay Wiki API,OSGi System Bundle
+Liferay Portal Security SSO CAS Implementation,Liferay Portal Security Export Import API,OSGi System Bundle,Liferay Portal Security SSO CAS API
+Liferay Portal Remote HTTP Tunnel Extender,Liferay Portal Configuration Metatype API,org.osgi.service.http,OSGi System Bundle
+Liferay IFrame Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Portal Workflow Kaleo Definition Implementation,Liferay Portal Workflow Kaleo API,OSGi System Bundle,Liferay Portal Workflow Kaleo Definition API
+Liferay Layout Type Controller Control Panel,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Site Browser Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Adaptive Media Image API,Liferay Adaptive Media API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Portal Search SPI,Liferay Portal Search SPI,OSGi System Bundle,Liferay Portal Search API
+Liferay Commerce Organization Service,Liferay Commerce Organization API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Blogs Reading Time,Liferay Reading Time API,Liferay Blogs API,OSGi System Bundle
+Liferay Captcha API,Liferay Portal Configuration Metatype API,Liferay Captcha API,OSGi System Bundle
+Liferay Subscription Web,Liferay Portal Configuration Metatype API,Liferay Subscription API,OSGi System Bundle
+Liferay Portal Scripting Executor,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Scripting API
+Liferay Item Selector Criteria Implementation,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle
+Liferay Commerce Geocoder Bing,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Commerce API
+Liferay Frontend JS Top Head Extender,OSGi System Bundle,Liferay Portal URL Builder API,Liferay OSGi Utilities
+Liferay Portal OSGi Debug Spring Extender,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal OSGi Debug API
+Liferay Site Navigation Menu Item Node,Liferay Frontend Taglib,Liferay Site Navigation API,OSGi System Bundle
+Apache Felix Declarative Services,org.osgi:org.osgi.service.metatype,OSGi System Bundle,org.osgi:org.osgi.util.function
+Liferay Site My Sites Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,OSGi System Bundle
+Liferay Portal Cluster Single,Apache Felix Declarative Services,Liferay Portal Profile API,OSGi System Bundle
+Liferay WYSIWYG Web,Liferay Portal Upgrade API,Liferay Export Import API,OSGi System Bundle
+Liferay Translator Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Users Admin API,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Site Taglib,Liferay Frontend Taglib Clay,Liferay Util Taglib,OSGi System Bundle
+Liferay Frontend Image Editor Web,Liferay Portal Portlet Bridge Soy API,OSGi System Bundle,Liferay Frontend Image Editor API
+Liferay Frontend Editor Taglib,Liferay Util Taglib,Liferay Frontend Editor API,OSGi System Bundle
+Liferay Portal Remote JAXRS Whiteboard,Apache Aries JAX-RS Specification API,OSGi System Bundle,Liferay Portal Remote JAXRS Whiteboard
+Liferay External Reference Service,Liferay External Reference API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Portal Settings Authentication LDAP Web,Liferay Portal Security LDAP API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Frontend Editor CKEditor Web,Liferay Util Taglib,Liferay Frontend Editor API,OSGi System Bundle
+Liferay Sync API,Liferay Sync API,OSGi System Bundle,Liferay Document Library Sync API
+Liferay Layout Set Prototype Implementation,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle
+Liferay Portal Security Auto Login,Liferay Portal Configuration Metatype API,Liferay Portal Security Export Import API,OSGi System Bundle
+Liferay Portal Security Audit Router,Liferay Portal Configuration Metatype API,Liferay Portal Security Audit API,OSGi System Bundle
+JavaServer Pages(TM) Standard Tag Library API,Expression Language 3.0,OSGi System Bundle,JavaServer Pages(TM) Standard Tag Library API
+Liferay Portal Scripting Ruby,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Scripting API
+Liferay Item Selector URL Web,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle
+Liferay Social Group Statistics Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle
+Liferay Util Taglib,Liferay Util Taglib,Expression Language 3.0,OSGi System Bundle
+Liferay HTML Preview Service,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay HTML Preview API
+Liferay Portal Search API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Search API
+Liferay Portal Configuration Upgrade Implementation,Liferay Portal Configuration Metatype API,Liferay Portal Configuration Upgrade API,OSGi System Bundle
+Liferay Mobile Device Rules API,Liferay Mobile Device Rules API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Portal Remote JAX-RS Whiteboard Debug,OSGi System Bundle,org.osgi:org.osgi.service.jaxrs,Liferay OSGi Utilities
+Liferay Portal Security SSO Google Implementation,Liferay Portal Security SSO Google API,Liferay Portal Instance Lifecycle API,OSGi System Bundle
+Liferay Portal Security SSO OpenID Connect Implementation,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Security SSO OpenID Connect API
+Liferay Blogs API,Liferay Portal Configuration Metatype API,Liferay Blogs API,OSGi System Bundle
+Liferay Roles Admin Implementation,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle
+Liferay Flags Service,Liferay Flags API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Document Library Layout Set Prototype,Liferay Portal Upgrade API,Liferay Portal Instance Lifecycle API,OSGi System Bundle
+Liferay Push Notifications Web,Liferay Portal Upgrade API,Liferay Push Notifications API,OSGi System Bundle,Liferay Application List API
+Liferay Dynamic Data Mapping API,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Portal Messaging,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Wiki Editor Link Browse Web,Liferay Wiki API,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle
+Liferay Adaptive Media Demo Data Creator Implementation,Liferay Adaptive Media API,Liferay Adaptive Media Demo Data Creator API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Portal Security Service Access Policy Service,Liferay Portal Upgrade API,Liferay Portal Security Service Access Policy API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Site Navigation Directory Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Util Taglib,OSGi System Bundle
+Liferay Product Navigation User,Liferay Product Navigation Product Menu API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Asset Taglib,Liferay Util Taglib,OSGi System Bundle,Liferay Asset API,Liferay Staging API
+Liferay Frontend Taglib Clay,Liferay Frontend Taglib Clay,Liferay Frontend Taglib Soy,OSGi System Bundle,Liferay Frontend JS Loader Modules Extender API
+Liferay User Groups Admin Implementation,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Portlet Display Template API
+Liferay Adaptive Media Image Item Selector Implementation,Liferay Adaptive Media Image Item Selector API,Liferay Item Selector API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Organizations Item Selector Web,Liferay Item Selector API,Liferay Organizations Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API
+Liferay Commerce Shipment Content Web,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API
+Liferay Users Admin Item Selector Web,Liferay Item Selector API,Liferay Users Admin Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API
+commerce-theme-breccia,Liferay Portal OSGi Web WAB Spring Bridge API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Remote Axis Extender
+Liferay Wiki Navigation Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Wiki API,OSGi System Bundle
+Liferay Adaptive Media Document Library Thumbnails,Liferay Portal Upgrade API,Liferay Adaptive Media API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Product Navigation Taglib,Liferay Util Taglib,Liferay Product Navigation Control Menu API,Liferay Product Navigation Taglib,OSGi System Bundle
+Liferay Site Navigation Site Map Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Export Import API,OSGi System Bundle
+classic-theme,Liferay Portal OSGi Web WAB Spring Bridge API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Remote Axis Extender
+Liferay Adaptive Media Image Implementation,Liferay Portal Configuration Metatype API,Liferay Adaptive Media API,OSGi System Bundle,Liferay Adaptive Media Image API
+org.osgi:org.osgi.service.jaxrs,Apache Aries JAX-RS Specification API,org.osgi:org.osgi.util.promise,OSGi System Bundle,org.osgi:org.osgi.service.jaxrs
+Liferay Adaptive Media Journal Web,Liferay Export Import API,Liferay Adaptive Media Content Transformer API,OSGi System Bundle,Liferay Journal API
+Liferay Comment Web,Liferay Message Boards API,OSGi System Bundle,Liferay Asset API,Liferay Comment API
+Liferay OAuth2 Provider API,Liferay OAuth2 Provider Scope Liferay API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay OAuth2 Provider API
+Liferay Frontend Theme Fjord Site Initializer,Liferay Fragment API,OSGi System Bundle,Liferay Site API,Liferay Layout Page Template API
+Liferay Application List My Account Permissions,Liferay Portal Instance Lifecycle API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Application List API
+Liferay Portal Workflow Kaleo Runtime Integration Implementation,Liferay Portal Workflow Kaleo API,OSGi System Bundle,Liferay Portal Workflow Kaleo Definition API,Liferay Portal Workflow Kaleo Runtime API
+Liferay Portal Settings Authentication OpenSSO Web,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Settings API,Liferay Portal Security SSO OpenSSO API
+Liferay Commerce Product Type Grouped Service,Liferay Commerce Product API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Product Type Grouped API
+Liferay Portal Security SSO OpenSSO Implementation,Liferay Portal Configuration Metatype API,Liferay Portal Security Export Import API,OSGi System Bundle,Liferay Portal Security SSO OpenSSO API
+Liferay Portal Security SSO NTLM Implementation,Liferay Portal Security SSO NTLM API,Liferay Portal Instances API,Liferay Portal Security Export Import API,OSGi System Bundle
+fjord-theme,Liferay Portal OSGi Web WAB Spring Bridge API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Remote Axis Extender
+Liferay Frontend JS SPA Web,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Frontend JS Loader Modules Extender API
+Liferay Application List User Personal Site Permissions,Liferay Portal Instance Lifecycle API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Application List API
+porygon-theme,Liferay Portal OSGi Web WAB Spring Bridge API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Remote Axis Extender
+Liferay Flags Taglib,Liferay Flags API,Liferay Frontend Taglib Soy,Liferay Util Taglib,OSGi System Bundle
+Liferay Portal Apio Implementation,Liferay Apio Architect API,Apache Aries JAX-RS Specification API,OSGi System Bundle,Liferay Portal Apio API
+westeros-bank-theme,Liferay Portal OSGi Web WAB Spring Bridge API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Remote Axis Extender
+Liferay Commerce Product Type Simple,Liferay Commerce Product API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Product Content API
+Liferay Document Library Repository CMIS Implementation,Liferay Document Library Repository CMIS API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Remote JAXRS Whiteboard
+Liferay Layout Item Selector Web,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Layout Item Selector API
+Liferay Roles Item Selector Web,Liferay Roles Item Selector API,Liferay Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API
+Liferay Recent Documents Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Document Library File Rank API,OSGi System Bundle
+Liferay Sync Security,Liferay Portal Instance Lifecycle API,Apache ServiceMix :: Specs :: Annotation API 1.3,Liferay Portal Security Service Access Policy API,OSGi System Bundle
+Liferay Plugins Admin Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,OSGi System Bundle,Liferay Application List API
+Liferay Blogs Editor Configuration,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Blogs Item Selector API
+Liferay Web Form Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Captcha API,OSGi System Bundle
+Liferay Portal Settings Authentication OpenID Connect Web,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Settings API,Liferay Portal Security SSO OpenID Connect API
+Liferay Portal OSGi Debug Declarative Service,Liferay Portal Configuration Metatype API,Apache Felix Declarative Services,OSGi System Bundle,Liferay Portal OSGi Debug API
+Liferay Portal Template Velocity,Liferay Portal Configuration Metatype API,Liferay Util Taglib,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Map Google Maps,Liferay Map API,Liferay Util Taglib,OSGi System Bundle,Liferay Frontend JS Loader Modules Extender API
+Liferay Trash Taglib,Liferay Trash API,Liferay Util Taglib,OSGi System Bundle,Liferay Trash Taglib
+Liferay Portal Settings Authentication Facebook Connect Web,Liferay Portal Configuration Metatype API,Liferay Portal Security SSO Facebook Connect API,OSGi System Bundle,Liferay Portal Settings API
+Liferay Captcha Taglib,Liferay Captcha API,Liferay Portal Configuration Metatype API,Liferay Util Taglib,OSGi System Bundle
+Liferay User Groups Admin Item Selector Web,Liferay Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay User Groups Admin Item Selector API
+Liferay Portal Remote CXF Common,Liferay Portal Configuration Metatype API,org.osgi.service.http,OSGi System Bundle,Liferay Portal Remote JAXRS Whiteboard
+Liferay Asset Browser Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,OSGi System Bundle,Liferay Asset API
+Liferay Social Bookmarks Taglib,Liferay Frontend Taglib Clay,Liferay Social Bookmarks API,Liferay Util Taglib,OSGi System Bundle
+Liferay Mentions Web,Liferay Message Boards API,Liferay Util Taglib,Liferay Mentions API,OSGi System Bundle
+Liferay Portal Security LDAP API,Liferay Portal Security LDAP API,Liferay Portal Configuration Metatype API,Liferay Portal Security Export Import API,OSGi System Bundle
+Liferay Directory Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Message Boards API,OSGi System Bundle
+Liferay Portlet Configuration Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Util Taglib,OSGi System Bundle
+Liferay Commerce Shipping Origin Locator Address,Liferay Portal Configuration Metatype API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce API
+Liferay Export Import Changeset Taglib,Liferay Export Import API,Liferay Export Import Changeset API,Liferay Util Taglib,OSGi System Bundle
+Liferay Portal Security WeDeploy Auth Web,Liferay Frontend Taglib Clay,Liferay Portal Security WeDeploy Auth API,OSGi System Bundle,Liferay Application List API
+Liferay Asset Categories Navigation Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Export Import API,OSGi System Bundle
+Liferay Portal Settings Authentication Google Web,Liferay Portal Security SSO Google API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Settings API
+Liferay Portal Model Relationship Dynamic Data Mapping Implementation,Liferay Dynamic Data Mapping API,OSGi System Bundle,Liferay Portal Relationship API,Liferay Journal API
+Liferay Staging Bar Web,Liferay Portal Upgrade API,Liferay Product Navigation Control Menu API,OSGi System Bundle,Liferay Staging API
+Liferay Dynamic Data Mapping Taglib,Liferay Dynamic Data Mapping API,Liferay Util Taglib,OSGi System Bundle,Liferay Portlet Display Template API
+Liferay Journal Content Asset Addon Entry Related Assets,Liferay Journal Content Asset Addon Entry API,Liferay Dynamic Data Mapping API,OSGi System Bundle,Liferay Journal API
+Liferay Portal Settings Authentication NTLM Web,Liferay Portal Security SSO NTLM API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Settings API
+Liferay Commerce Address Web,Liferay Commerce Admin API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce API
+Liferay Portal Cache Ehcache SPI,Liferay Portal Cache Ehcache Provider,Liferay Portal Cache Ehcache SPI,OSGi System Bundle,Liferay Portal Cache API
+Liferay Portal Search Admin Web,Liferay Portal Instances API,OSGi System Bundle,Liferay Application List API,Liferay Portal Search API
+Liferay Adaptive Media Document Library,Liferay Document Library API,Liferay Adaptive Media API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Push Notifications Service,Liferay Portal Upgrade API,Liferay Push Notifications API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Asset Tags Admin Web,Liferay Frontend Taglib Clay,OSGi System Bundle,Liferay Asset API,Liferay Application List API
+Liferay Invitation Invite Members Service,Liferay Portal Upgrade API,Liferay Portal Spring Extender API,Liferay Invitation Invite Members API,OSGi System Bundle
+Liferay Mentions Service,Liferay Message Boards API,Liferay Mentions API,Liferay Blogs API,OSGi System Bundle
+Liferay Commerce Availability Estimate Web,Liferay Commerce Admin API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce API
+Liferay Asset Entry Rel Service,Liferay Portal Upgrade API,Liferay Portal Spring Extender API,Liferay Asset Entry Rel API,OSGi System Bundle
+Liferay Portal Configuration Metatype Definitions Equinox,Liferay Portal Configuration Metatype API,org.osgi:org.osgi.service.metatype,OSGi System Bundle,Meta Type
+Liferay Message Boards API,Liferay RSS API,Liferay Portal Configuration Metatype API,Liferay Message Boards API,OSGi System Bundle
+Liferay Journal Content Asset Addon Entry Ratings,Liferay Journal Content Asset Addon Entry API,Liferay Dynamic Data Mapping API,OSGi System Bundle,Liferay Journal API
+javax.servlet.jsp.jstl,Expression Language 3.0,OSGi System Bundle,javax.servlet.jsp.jstl,JavaServer Pages(TM) Standard Tag Library API
+Liferay Product Navigation Control Menu Web,Liferay Product Navigation Control Menu API,Liferay Util Taglib,OSGi System Bundle,Liferay Asset API
+Liferay Portal JMX,Apache Felix Declarative Services,OSGi System Bundle,Liferay Portal JMX API,Liferay OSGi Utilities
+Liferay Image Uploader Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Document Library API,OSGi System Bundle
+Liferay Commerce Address Content Web,Liferay Portal Configuration Metatype API,Liferay Commerce Product Service,OSGi System Bundle,Liferay Commerce API
+Liferay Portal Rules Engine Wiring,Apache Felix Declarative Services,Liferay Portal Rules Engine API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Monitoring Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,OSGi System Bundle,Liferay Application List API
+Liferay Commerce Price List API,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Price List API
+Liferay Journal API,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Journal API
+Liferay Portal Settings Authentication CAS Web,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Settings API,Liferay Portal Security SSO CAS API
+Liferay Commerce Product Type Virtual API,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce Product Type Virtual API,Liferay Journal API
+Liferay Wiki Editor Configuration,Liferay Wiki API,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle
+Liferay Message Boards Layout Set Prototype,Liferay Portal Upgrade API,Liferay Portal Instance Lifecycle API,Liferay Message Boards API,OSGi System Bundle
+Liferay Expando Web,Liferay Frontend Taglib Clay,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Aggregate Rating Apio Implementation,Liferay Apio Architect API,OSGi System Bundle,Liferay Portal Apio API,Liferay Aggregate Rating Apio API
+Liferay Portal OSGi Web Portlet Tracker,org.osgi.service.http,Liferay Portal OSGi Web Servlet Context Helper API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Map OpenStreetMap,Liferay Map API,Liferay Util Taglib,OSGi System Bundle,Liferay Frontend JS Loader Modules Extender API
+Liferay Portal Scheduler Quartz,Liferay Portal Upgrade API,Apache Felix Declarative Services,Liferay Portal Profile API,OSGi System Bundle
+Liferay Upload Web,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Upload API,OSGi System Bundle
+Liferay Commerce Admin Web,Liferay Frontend Taglib Clay,Liferay Commerce Admin API,OSGi System Bundle,Liferay Application List API
+Liferay Knowledge Base Editor Configuration,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Knowledge Base Item Selector API
+admin-theme,Liferay Portal OSGi Web WAB Spring Bridge API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Remote Axis Extender
+Liferay Portal Settings Authentication OpenID Web,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Settings API,Liferay Portal Security SSO OpenID API
+Liferay Item Selector Editor Configuration,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Layout Item Selector API
+Liferay Commerce Product Taglib,Liferay Commerce Product API,Liferay Util Taglib,OSGi System Bundle,Liferay Commerce Product Content API
+Liferay Polls Web,Liferay Frontend Taglib Clay,Liferay Util Taglib,Liferay Polls API,OSGi System Bundle,Liferay Application List API
+Liferay Wiki Layout Prototype,Liferay Portal Upgrade API,Liferay Portal Instance Lifecycle API,Liferay Wiki API,OSGi System Bundle,Liferay Layout Page Template API
+Liferay Layout Type Controller Link To Page,Liferay Item Selector API,Liferay Util Taglib,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Layout Item Selector API
+Liferay Journal Content Asset Addon Entry Comments,Liferay Journal Content Asset Addon Entry API,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Journal API
+Apache Aries JAX-RS Whiteboard,org.osgi.service.http,Apache Aries JAX-RS Specification API,org.osgi:org.osgi.util.promise,OSGi System Bundle,org.osgi:org.osgi.service.jaxrs
+Liferay Social User Statistics Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Util Taglib,OSGi System Bundle,Liferay Social User Statistics API
+Liferay Document Library Content Service,Liferay Portal Upgrade API,Liferay Document Library Content API,Liferay Portal Spring Extender API,Liferay Petra Model Adapter,OSGi System Bundle
+Liferay Portal OSGi Web Servlet Context Helper Implementation,org.osgi.service.http,Liferay Portal OSGi Web Servlet Context Helper API,Liferay Portal OSGi Web Servlet API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Document Library Sync Service,Liferay Portal Upgrade API,Liferay Portal Spring Extender API,Liferay Petra Model Adapter,Liferay Document Library Sync API,OSGi System Bundle
+Liferay Document Library Document Conversion,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Commons IO,Liferay Portal Configuration Upgrade API,OSGi System Bundle
+Liferay Push Notifications Sender Apple,Apache Felix Declarative Services,Liferay Portal Configuration Metatype API,Liferay Push Notifications API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Portal Security LDAP Implementation,Liferay Portal Security LDAP API,Liferay Portal Instance Lifecycle API,Liferay Portal Configuration Metatype API,Liferay Portal Security Export Import API,OSGi System Bundle
+Liferay Commerce Product Measurement Unit Web,Liferay Frontend Taglib Clay,Liferay Commerce Product API,Liferay Commerce Admin API,Liferay Frontend Taglib,OSGi System Bundle
+Liferay Asset Tag Stats Service,Liferay Portal Upgrade API,Liferay Portal Spring Extender API,Liferay Petra Model Adapter,OSGi System Bundle,Liferay Asset Tag Stats API
+Liferay Site Teams Web,Liferay Frontend Taglib Clay,Liferay Export Import API,OSGi System Bundle,Liferay Application List API,Liferay Staging API
+Liferay Portal Template Soy Implementation,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Portal Template Soy API,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Commerce Currency Web,Liferay Commerce Admin API,Liferay Portal Configuration Metatype API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API
+Liferay Blogs Recent Bloggers Web,Liferay Portal Upgrade API,Liferay Export Import API,Liferay Util Taglib,Liferay Blogs API,OSGi System Bundle
+Liferay Asset Categories Service,Liferay XStream Configurator API,OSGi System Bundle,Liferay Asset Entry Rel API,Liferay Asset Category Property API,Liferay Staging API
+Liferay Site Navigation Taglib,Liferay Dynamic Data Mapping API,Liferay Util Taglib,Liferay Site Navigation API,OSGi System Bundle,Liferay Portlet Display Template API
+Liferay Product Navigation Simulation Web,Liferay Product Navigation Simulation API,Liferay Util Taglib,Liferay Product Navigation Control Menu API,OSGi System Bundle,Liferay Application List API
+Liferay Asset Tags Service,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Asset Tag Stats API,Liferay Staging API
+Liferay Portal Lock Service,Liferay Portal Upgrade API,Liferay Portal Spring Extender API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Portal Lock API
+Liferay Frontend JS Loader Modules Extender,Liferay Portal Configuration Metatype API,Apache Felix Declarative Services,OSGi System Bundle,Liferay OSGi Utilities,Liferay Frontend JS Loader Modules Extender API
+Liferay Document Library Google Docs,Liferay Dynamic Data Mapping API,Liferay Portal Instance Lifecycle API,Liferay Document Library API,Expression Language 3.0,OSGi System Bundle
+Liferay Portal LPKG Deployer Implementation,Apache Felix File Install,Liferay Portal LPKG Deployer API,Liferay Portal Target Platform Indexer API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Portal Verify Extender,Liferay Portal Configuration Metatype API,Apache Felix Gogo Runtime,OSGi System Bundle,Liferay Portal Output Stream Container API,Liferay Portal Search API
+Liferay Portal Remote Axis Extender,Apache Felix Declarative Services,org.osgi.service.http,Liferay Portal Remote Axis Extender,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Adaptive Media Journal Editor Configuration,Liferay Adaptive Media Image Item Selector API,Liferay Item Selector API,Liferay Journal Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle
+Liferay Sync Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Sync API,OSGi System Bundle,Liferay Application List API
+Liferay Portal Workflow Task Web,Liferay Frontend Taglib Clay,Liferay Portal Configuration Metatype API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Commerce Notification Service,Liferay Commerce Notification API,Liferay Portal Configuration Metatype API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce User Segment API
+Liferay Adaptive Media Image Service,Liferay Export Import API,Liferay Portal Spring Extender API,Liferay Adaptive Media API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Portal Scheduler,Liferay Portal Configuration Metatype API,Apache Felix Declarative Services,Liferay Portal Profile API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Wiki API,Liferay Portal Configuration Metatype API,Liferay Wiki API,Liferay Util Taglib,Liferay Item Selector API,OSGi System Bundle
+Liferay Organization Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,Liferay Organization Apio API,OSGi System Bundle,Liferay Site Apio API
+Liferay Commerce Tax Web,Liferay Commerce Tax API,Liferay Commerce Admin API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce API
+Liferay Blogs Layout Prototype,Liferay Portal Upgrade API,Liferay Portal Instance Lifecycle API,Liferay Blogs API,OSGi System Bundle,Liferay Layout Page Template API
+Liferay Portal Monitoring,Liferay Portal Upgrade API,Apache Felix Declarative Services,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay OAuth2 Provider Service,Liferay OAuth2 Provider Scope Liferay API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay OAuth2 Provider API
+Liferay Site Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,OSGi System Bundle,Liferay Site Apio API,Liferay Folder Apio API
+Liferay Portal Workflow Kaleo Runtime API,Liferay Portal Workflow Kaleo API,Liferay Portal Rules Engine API,OSGi System Bundle,Liferay Portal Workflow Kaleo Definition API,Liferay Portal Workflow Kaleo Runtime API
+Liferay Commerce Discount Rule Cart Total,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API,Liferay Commerce Discount API
+Liferay Chat Web,Liferay Portal Upgrade API,Liferay Chat API,Apache Felix Declarative Services,Liferay Portal Profile API,OSGi System Bundle
+Liferay Organizations Service,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Configuration Persistence API,Liferay Organizations API
+Liferay Site Navigation Breadcrumb Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Export Import API,OSGi System Bundle,Liferay Portlet Display Template API
+Liferay Site Navigation Language Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Export Import API,OSGi System Bundle,Liferay Portlet Display Template API
+Liferay Layout Apio Implementation,Liferay Apio Architect API,OSGi System Bundle,Liferay Layout Apio API,Liferay Site Apio API,Liferay Portal Apio API
+Liferay Dynamic Data Mapping Type Captcha,Liferay Dynamic Data Mapping API,Liferay Portal Template Soy API,Liferay Captcha Taglib,Liferay Util Taglib,OSGi System Bundle
+Liferay Adaptive Media Blogs Editor Configuration,Liferay Adaptive Media Image Item Selector API,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Blogs Item Selector API
+Liferay Portal Mobile Device Detection FiftyOneDegrees,Liferay Portal Mobile Device Detection FiftyOneDegrees API,Liferay Portal Configuration Metatype API,Apache Felix Declarative Services,Liferay Portal Profile API,OSGi System Bundle
+Liferay Commerce Payment Engine Money Order,Liferay Portal Configuration Metatype API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Checkout Web,Liferay Commerce API
+Liferay Portal Template FreeMarker,Apache Felix Declarative Services,Liferay Portal Configuration Metatype API,Expression Language 3.0,OSGi System Bundle,javax.servlet.jsp.jstl
+Liferay Server Admin Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Application List API
+Liferay Portal Search Elasticsearch 6 Implementation,Liferay Portal Configuration Metatype API,Liferay Portal Search Elasticsearch 6 API,OSGi System Bundle,Liferay Portal Search Engine Adapter API,Liferay Portal Search API
+Liferay Adaptive Media Blogs Web,Liferay Export Import API,Liferay Adaptive Media Content Transformer API,Liferay Blogs API,OSGi System Bundle,Liferay Adaptive Media Image API
+Liferay Portal Security Service Access Policy Web,Liferay Frontend Taglib Clay,Liferay Portal Security Service Access Policy API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Login Web,Liferay Portal Upgrade API,Liferay Captcha API,Liferay Portal Configuration Metatype API,Liferay Util Taglib,OSGi System Bundle
+Liferay Analytics Client OSGi,Liferay Portal Configuration Metatype API,Apache Felix Declarative Services,Liferay Analytics API,Liferay Petra JSON Web Service Client,OSGi System Bundle
+Liferay Asset Display Page Service,Liferay Export Import API,Liferay Portal Spring Extender API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Asset Display Page API
+Liferay Portal Security Audit Wiring,Apache Felix Declarative Services,Liferay Portal Configuration Metatype API,Liferay Portal Security Audit API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Portal Component Blacklist Implementation,Liferay Portal Configuration Metatype API,Apache Felix Declarative Services,org.osgi:org.osgi.util.promise,OSGi System Bundle,Liferay Portal Component Blacklist API
+Liferay Portal Upload,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Portal Configuration Upgrade API,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Staging Taglib,Liferay Export Import API,Liferay Util Taglib,OSGi System Bundle,Liferay Staging API,Liferay Frontend Taglib Utilities
+Liferay Frontend Taglib Chart,Liferay Frontend Taglib Soy,OSGi System Bundle,Liferay Frontend Taglib Chart,Liferay Frontend JS Loader Modules Extender API,Liferay Frontend Taglib Utilities
+Liferay Asset Tags Navigation Web,Liferay Portal Upgrade API,Liferay Export Import API,OSGi System Bundle,Liferay Asset Tag Stats API,Liferay Asset API
+Liferay Commerce API,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API,Liferay Commerce Price List API
+Liferay Commerce Discount API,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce API,Liferay Commerce User Segment API,Liferay Commerce Discount API
+Liferay Portal Workflow Kaleo Runtime Form Implementation,Liferay Dynamic Data Mapping API,Liferay Dynamic Data Lists API,Liferay Portal Workflow Kaleo API,OSGi System Bundle,Liferay Portal Workflow Kaleo Runtime API
+Liferay Portal Background Task Service,Liferay Portal Upgrade API,Liferay Portal Background Task API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Social Activity Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Social Activity API,Liferay Application List API
+Liferay Portal Security Audit Storage Service,Liferay Portal Upgrade API,Liferay Portal Security Audit API,Liferay Portal Security Audit Storage API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Contacts Service,Liferay Portal Upgrade API,Liferay Portal DAO ORM Custom SQL API,Liferay Contacts API,Liferay Portal Spring Extender API,OSGi System Bundle
+Liferay Commerce User Segment Item Selector Web,Liferay Item Selector API,Liferay Commerce User Segment Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Commerce User Segment API
+Liferay Commerce User Segment Service,Liferay Commerce Organization API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce User Segment API,Liferay Portal Search API
+Liferay Commerce Shipping Engine Fixed Service,Liferay Commerce Shipping Engine Fixed API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce API
+Liferay Journal Content Search Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Journal API,Liferay Portal Search API
+Liferay Frontend Editor TinyMCE Web,Liferay Item Selector API,Liferay Util Taglib,Liferay Frontend Editor API,Liferay Item Selector Criteria API,OSGi System Bundle
+Liferay Commerce Product Type Virtual Service,Liferay Commerce Product API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Product Type Virtual API,Liferay Journal API
+Liferay Commerce Initializer Utilities,Liferay Commerce Product API,Liferay Dynamic Data Mapping API,OSGi System Bundle,Liferay Commerce API,Liferay Portlet Display Template API
+Liferay Layout Taglib,Liferay Frontend Taglib Soy,Liferay Util Taglib,OSGi System Bundle,Liferay Layout Taglib,Liferay Frontend Taglib Utilities
+Liferay Subscription Service,Liferay Portal Upgrade API,Liferay Subscription API,Liferay Portal Spring Extender API,Liferay Petra Model Adapter,OSGi System Bundle
+Liferay Contacts Web,Liferay Portal Upgrade API,Liferay Users Admin API,Liferay Portal Configuration Metatype API,Liferay Contacts API,OSGi System Bundle
+Liferay Marketplace Service,Liferay Portal Upgrade API,Liferay Portal Spring Extender API,Liferay Portal LPKG Deployer API,OSGi System Bundle,Liferay Marketplace API
+Liferay Commerce Tax Engine Fixed API,Liferay Commerce Product API,Liferay Commerce Tax API,Liferay Commerce Tax Engine Fixed API,OSGi System Bundle,Liferay Commerce API
+Liferay Password Policies Admin Web,Liferay Frontend Taglib Clay,Liferay Util Taglib,Liferay Password Policies Admin API,OSGi System Bundle,Liferay Application List API
+Liferay Vocabulary Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,OSGi System Bundle,Liferay Site Apio API,Liferay Vocabulary Apio API,Liferay Portal Apio API
+Liferay Marketplace App Manager Web,Liferay Frontend Taglib Clay,Liferay Util Taglib,OSGi System Bundle,Liferay Marketplace API,Liferay Application List API,Liferay Portal Bundle Blacklist API
+Liferay Frontend Editor AlloyEditor Web,Liferay Item Selector API,Liferay Util Taglib,Liferay Frontend Editor API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Layout Item Selector API
+Liferay Commerce Product Options Web,Liferay Frontend Taglib Clay,Liferay Commerce Product API,Liferay Dynamic Data Mapping API,Liferay Commerce Product Service,Liferay Util Taglib,OSGi System Bundle
+Liferay Site Admin Web,Liferay Frontend Taglib Clay,Liferay Map API,Liferay Util Taglib,OSGi System Bundle,Liferay Site API,Liferay Application List API
+Liferay Notifications Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Subscription API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Commerce Product Tax Category Web,Liferay Commerce Product API,Liferay Commerce Tax API,Liferay Commerce Admin API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce API
+Liferay Dynamic Data Mapping Data Provider Web,Liferay Frontend Taglib Clay,Liferay Dynamic Data Mapping API,Liferay Export Import API,OSGi System Bundle,Liferay Application List API,Liferay Staging API
+Liferay Commerce Payment Engine PayPal,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API
+Liferay Trash Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Trash API,Liferay Petra Model Adapter,OSGi System Bundle,Liferay Application List API
+Liferay RSS Web,Liferay Portal Upgrade API,Liferay RSS API,Liferay Portal Configuration Metatype API,Liferay Export Import API,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Keyword Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,OSGi System Bundle,Liferay Site Apio API,Liferay Portal Apio API,Liferay Keyword Apio API
+Liferay Mail Reader Web,Liferay Portal Upgrade API,Apache Felix Declarative Services,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Mail Reader API
+Liferay Commerce Tax Service,Liferay Commerce Product API,Liferay Commerce Tax API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API
+Liferay Product Navigation Product Menu Web,Liferay Portal Upgrade API,Liferay Product Navigation Product Menu API,Liferay Util Taglib,Liferay Product Navigation Control Menu API,OSGi System Bundle,Liferay Application List API
+Liferay Captcha Implementation,Liferay Portal Upgrade API,Liferay Captcha API,Liferay Portal Configuration Metatype API,Liferay Portal Configuration Upgrade API,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Asset Category Property Service,Liferay Portal Upgrade API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Petra Model Adapter,OSGi System Bundle,Liferay Asset Category Property API
+Liferay Users Admin Implementation,Liferay Export Import API,Liferay Users Admin API,Liferay Portal Configuration Metatype API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Portal Search API
+Liferay Site Implementation,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Site API,Liferay Application List API,Liferay Layout API
+Liferay Portal Security Auth Verifier,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,org.osgi.service.http,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Configuration Persistence API
+Liferay Layout Implementation,Liferay Portal Upgrade API,Liferay Export Import API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Layout API,Liferay Staging API
+Liferay Commerce Support Web,Liferay Commerce Product API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API,Liferay Commerce User Segment API,Liferay Commerce Price List API
+Liferay Microblogs Service,Liferay Portal Upgrade API,Liferay Portal DAO ORM Custom SQL API,Liferay Subscription API,Liferay Portal Spring Extender API,Liferay Microblogs API,OSGi System Bundle
+Liferay Site Navigation Item Selector Web,Liferay Frontend Taglib Clay,Liferay Site Navigation Item Selector API,Liferay Item Selector API,Liferay Site Navigation API,OSGi System Bundle,Liferay Item Selector Criteria API
+Liferay Announcements Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Announcements API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Portal Security SSO Token Implementation,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Portal Security Export Import API,Liferay Portal Security SSO Token API,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Commerce Order Content Web,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,Liferay Commerce Product Service,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API
+Liferay Portal Bundle Blacklist Implementation,Liferay Portal Configuration Metatype API,Liferay Portal OSGi Web WAB Generator API,Liferay Portal LPKG Deployer API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Bundle Blacklist API
+Liferay Portlet Display Template Implementation,Liferay Dynamic Data Mapping API,Liferay Export Import API,Liferay Petra Model Adapter,Liferay Util Taglib,OSGi System Bundle,Liferay Portlet Display Template API
+Liferay Commerce Currency Service,Liferay Portal Configuration Metatype API,Liferay Portal DAO ORM Custom SQL API,Liferay Configuration Admin API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Currency API
+Liferay Commerce Cart Content Web,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Product Content API,Liferay Commerce API
+Liferay Commerce Wish List Service,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,Liferay Configuration Admin API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Wish List API
+Liferay Portal Search,Liferay Portal Instance Lifecycle API,Liferay Portal Configuration Metatype API,Liferay Portal Search SPI,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Search API
+Liferay Folder Apio Implementation,Liferay Apio Architect API,Apache Aries JAX-RS Specification API,OSGi System Bundle,Liferay Media Object Apio API,Liferay Portal Apio API,Liferay Folder Apio API
+Liferay Frontend Taglib,Liferay Frontend Taglib Clay,Liferay Users Admin API,Liferay Util Taglib,Liferay Frontend Taglib Soy,Liferay Frontend Taglib,OSGi System Bundle
+Liferay Roles Admin Web,Liferay Frontend Taglib Clay,Liferay Util Taglib,OSGi System Bundle,Liferay Roles Admin API,Liferay Portlet Display Template API,Liferay Application List API
+Liferay Fragment Display Web,Liferay Portal Template Soy API,Liferay Fragment Item Selector API,Liferay Fragment API,Liferay Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API
+Liferay Asset Service,Liferay Dynamic Data Mapping API,Liferay Portal Instance Lifecycle API,Liferay Portal Security Service Access Policy API,OSGi System Bundle,Liferay Asset Entry Rel API,Liferay Asset API
+Liferay Fragment Item Selector Web,Liferay Frontend Taglib Clay,Liferay Fragment Item Selector API,Liferay Fragment API,Liferay Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API
+Liferay Layout Type Controller Asset Display,Liferay Asset Display API,Liferay Fragment API,Liferay Util Taglib,OSGi System Bundle,Liferay Asset Display Page API,Liferay Layout Page Template API
+Liferay Blogs Item Selector Web,Liferay Document Library API,Liferay Item Selector API,Liferay Blogs API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Blogs Item Selector API
+Liferay Document Library Item Selector Web,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Staging API
+Liferay Portal Upgrade Implementation,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Apache Felix Gogo Runtime,OSGi System Bundle,Liferay Portal Output Stream Container API,Liferay OSGi Utilities
+Liferay Commerce Product Item Selector Web,Liferay Commerce Product API,Liferay Commerce Product Service,Liferay Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Commerce Product Item Selector API
+Liferay Calendar Web,Liferay Portal Upgrade API,Liferay RSS API,Liferay Portal DAO ORM Custom SQL API,Liferay Calendar API,Liferay Util Taglib,OSGi System Bundle
+Liferay Portal Workflow Kaleo Runtime Scripting Implementation,Apache Felix Declarative Services,Liferay Portal Workflow Kaleo API,Liferay Portal Rules Engine API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Workflow Kaleo Runtime API
+Liferay Knowledge Base Item Selector Web,Liferay Document Library API,Liferay Item Selector API,Liferay Knowledge Base API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Knowledge Base Item Selector API
+Liferay Comment Taglib,Liferay Subscription API,Liferay Message Boards API,Liferay Util Taglib,OSGi System Bundle,Liferay Comment API,Liferay Staging API
+Liferay Site Navigation Admin Web,Liferay Frontend Taglib Clay,Liferay Util Taglib,Liferay Site Navigation API,OSGi System Bundle,Liferay Staging API,Liferay Application List API
+Liferay Portal Remote REST Extender,Liferay Portal Configuration Metatype API,Apache Aries JAX-RS Specification API,OSGi System Bundle,Liferay Portal Remote JAXRS Whiteboard JAXB JSON,Liferay Portal Remote JAXRS Whiteboard,org.osgi:org.osgi.service.jaxrs
+Liferay User Groups Admin Web,Liferay Frontend Taglib Clay,Liferay User Groups Admin API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API,Liferay Portal Search API
+Liferay Mobile Device Rules Service,Liferay Portal Upgrade API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Mobile Device Rules API,Liferay XStream Configurator API,OSGi System Bundle
+Liferay Portal Instances Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Portal Instances API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Commerce Price List Service,Liferay Commerce Product API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Price List API,Liferay Portal Search API
+Liferay Site Navigation Service,Liferay Export Import API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Site Navigation API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Staging API
+Liferay Portal Remote SOAP Extender Implementation,Liferay Portal Upgrade API,Liferay Portal Remote SOAP Extender API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Portal Remote JAXRS Whiteboard,Liferay OSGi Utilities,Liferay Portal Configuration Persistence API
+Liferay Item Selector Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Item Selector API,Liferay Util Taglib,Liferay Upload API,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Fragment Service,Liferay Export Import API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Fragment API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Staging API
+Liferay Commerce Warehouse Web,Liferay Commerce Product API,Liferay Commerce Admin API,Liferay Commerce Product Service,Liferay Commerce Service,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce API
+Liferay Portal OSGi Web Servlet JSP Compiler,Liferay Util Taglib,Liferay Portal OSGi Web Servlet API,Expression Language 3.0,OSGi System Bundle,Liferay OSGi Utilities,javax.servlet.jsp.jstl,JavaServer Pages(TM) Standard Tag Library API
+Liferay OAuth2 Provider Web,Liferay Frontend Taglib Clay,Liferay OAuth2 Provider Scope Liferay API,Liferay Portal Configuration Metatype API,Liferay OAuth2 Provider Scope SPI,OSGi System Bundle,Liferay OAuth2 Provider API,Liferay Application List API
+Liferay Site Item Selector Web,Liferay Frontend Taglib Clay,Liferay Site Item Selector API,Liferay Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Site API,Liferay Application List API
+Liferay Asset Display Page Item Selector Web,Liferay Asset Display API,Liferay Frontend Taglib Clay,Liferay Item Selector API,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Asset Display Page Item Selector API,Liferay Layout Page Template API
+Liferay Journal Content Web,Liferay Journal Content Asset Addon Entry API,Liferay Portal Upgrade API,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,Liferay Export Import API,OSGi System Bundle,Liferay Journal API
+Liferay Commerce Wish List Web,Liferay Commerce Product API,Liferay Commerce Health Status API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Wish List API,Liferay Commerce API,Liferay Application List API
+Liferay Commerce Tax Engine Fixed Service,Liferay Commerce Product API,Liferay Commerce Tax API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Tax Engine Fixed API,Liferay Commerce API
+Liferay Document Library File Rank Service,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Document Library File Rank API,Liferay Petra Model Adapter,OSGi System Bundle
+Liferay Site Navigation Menu Item Layout,Liferay Frontend Taglib Clay,Liferay Item Selector API,Liferay Frontend Taglib,Liferay Site Navigation API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Layout Item Selector API
+Liferay Friendly URL Service,Liferay Export Import API,Liferay Portal Spring Extender API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Site API,Liferay Friendly URL API,Liferay Staging API
+Liferay Staging Processes Web,Liferay Frontend Taglib Clay,Liferay Export Import API,Liferay Trash API,Liferay Util Taglib,OSGi System Bundle,Liferay Staging API,Liferay Application List API
+Liferay Portal Cache Ehcache Implementation,Apache Felix Declarative Services,Liferay Portal Profile API,Liferay Portal Cache Ehcache Provider,Liferay Portal Cache Ehcache SPI,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Cache API
+Liferay Frontend Theme Westeros Bank Site Initializer,Liferay Dynamic Data Mapping API,Liferay Fragment API,Liferay Site Navigation API,OSGi System Bundle,Liferay Site API,Liferay Journal API,Liferay Layout Page Template API
+Liferay Commerce User Web,Liferay Commerce User API,Liferay Users Admin API,Liferay Portal Configuration Metatype API,Liferay Commerce Organization API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce API
+Liferay Portal Settings Web,Liferay Portal Upgrade API,Liferay Map API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Settings API,Liferay OSGi Utilities,Liferay Application List API
+opensocial-portlet,Liferay Portal OSGi Web WAB Generator API,Liferay Portal OSGi Web WAB Spring Bridge API,opensocial-portlet,Liferay Util Taglib,Expression Language 3.0,OSGi System Bundle,Liferay Portal Remote Axis Extender
+Liferay Commerce Product API,Liferay Commerce Product API,Liferay Frontend Taglib Clay,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Commerce User Segment API
+Liferay Commerce Payment Method Web,Liferay Commerce Admin API,Liferay Frontend Taglib,Liferay Item Selector API,Liferay Commerce Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Commerce API
+Liferay Item Selector Taglib,Liferay Frontend Taglib Clay,Liferay Document Library API,Liferay Item Selector API,Liferay Util Taglib,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Item Selector Taglib
+Liferay Journal Item Selector Web,Liferay Dynamic Data Mapping API,Liferay Document Library API,Liferay Item Selector API,Liferay Journal Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Journal API
+Liferay Commerce Inventory Web,Liferay Commerce Product API,Liferay Commerce Product Service,Liferay Commerce Service,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce API,Liferay Commerce Product Definitions Web
+Liferay Trash Service,Liferay Portal Upgrade API,Liferay Trash API,Liferay Message Boards API,Liferay Portal Spring Extender API,Liferay Petra Model Adapter,OSGi System Bundle,Liferay Portal Search API
+Liferay Person Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,Apache Aries JAX-RS Specification API,Liferay Organization Apio API,OSGi System Bundle,Liferay Site Apio API,Liferay Portal Apio API
+Liferay Commerce Product Type Virtual Order Service,Liferay Commerce Product API,Liferay Commerce Product Type Virtual Order API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Product Type Virtual API,Liferay Commerce API
+Liferay Commerce Product Content Search Web,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,Liferay Commerce Product Service,Liferay Portal Search Web API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Product Content API
+Liferay Mobile Device Rules Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Export Import API,Liferay Mobile Device Rules API,OSGi System Bundle,Liferay Application List API,Liferay Staging API
+Liferay Portal Workflow Web,Liferay Frontend Taglib Clay,Liferay Portal Configuration Metatype API,Liferay Frontend Taglib,Liferay Util Taglib,Liferay Portal Workflow API,OSGi System Bundle,Liferay Application List API
+tasks-portlet,Liferay Portal OSGi Web WAB Generator API,Liferay Portal OSGi Web WAB Spring Bridge API,Liferay Portal Spring Extender API,Liferay Util Taglib,tasks-portlet,OSGi System Bundle,Liferay Portal Remote Axis Extender,javax.servlet.jsp.jstl
+Liferay Commerce Shipment Web,Liferay Commerce Product API,Liferay Commerce Product Service,Liferay Commerce Service,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API,Liferay Application List API
+Liferay Commerce Shipping Engine Fixed Web,Liferay Commerce Product API,Liferay Commerce Shipping Engine Fixed API,Liferay Commerce Admin API,Liferay Commerce Shipping Web,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API
+Liferay OAuth2 Provider JSONWS,Liferay OAuth2 Provider Scope Liferay API,Liferay Portal Instance Lifecycle API,Liferay Portal Configuration Metatype API,Liferay Portal Security Service Access Policy API,Liferay OAuth2 Provider REST SPI,Liferay OAuth2 Provider Scope SPI,OSGi System Bundle,Liferay OAuth2 Provider API
+Liferay User Associated Data Web,Liferay Frontend Taglib Clay,Liferay Portal Background Task API,Liferay User Associated Data API,Liferay Portal Configuration Metatype API,Liferay Users Admin API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Commerce Organization Web,Liferay Commerce User API,Liferay Users Admin API,Liferay Portal Configuration Metatype API,Liferay Commerce Organization API,Liferay Frontend Taglib,Liferay Util Taglib,OSGi System Bundle,Liferay Commerce API
+Liferay Commerce Product Catalog Rule Web,Liferay Commerce Product API,Liferay Frontend Taglib,Liferay Item Selector API,Liferay Commerce User Segment Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Commerce User Segment API,Liferay Application List API
+Liferay Commerce Health Status Web,Liferay Commerce Product API,Liferay Commerce Admin API,Liferay Frontend Taglib,Liferay Commerce Health Status API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API,Liferay Commerce User Segment API
+Liferay Commerce Item Selector Web,Liferay Commerce Product Service,Liferay Item Selector API,Liferay Frontend Taglib,Liferay Commerce Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Commerce API,Liferay Commerce Price List API
+Liferay Commerce Tax Engine Fixed Web,Liferay Commerce Product API,Liferay Commerce Tax API,Liferay Commerce Admin API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Tax Engine Fixed API,Liferay Commerce API
+Liferay Commerce Discount Rule Added All,Liferay Commerce Product API,Liferay Item Selector API,Liferay Frontend Taglib,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Commerce Product Item Selector API,Liferay Commerce API,Liferay Commerce Discount API
+Liferay Portal Workflow Kaleo Runtime Implementation,Liferay Portal Instance Lifecycle API,Liferay Portal Spring Extender API,Liferay Portal Workflow Kaleo API,Liferay Portal Rules Engine API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Workflow Kaleo Definition API,Liferay Portal Workflow Kaleo Runtime API
+Liferay Configuration Admin Web,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,org.osgi:org.osgi.service.metatype,Liferay Configuration Admin API,Liferay Util Taglib,OSGi System Bundle,Liferay Portal Configuration Persistence API,Liferay Application List API
+Liferay Portal Workflow Kaleo Service,Liferay Portal Upgrade API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Portal Workflow Kaleo API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Workflow Kaleo Definition API,Liferay Portal Workflow Kaleo Runtime API
+Liferay Product Navigation Site Administration,Liferay Product Navigation Product Menu API,Liferay Site Item Selector API,Liferay Item Selector API,Liferay Util Taglib,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Site API,Liferay Application List API
+Liferay Sync Service,Liferay Sync API,Liferay Portal Upgrade API,Liferay Portal Instance Lifecycle API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Document Library Sync API,Liferay Petra IO Delta
+Liferay Media Object Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,Liferay Category Apio API,Apache Aries JAX-RS Specification API,OSGi System Bundle,Liferay Media Object Apio API,Liferay Portal Apio API,Liferay Folder Apio API
+Liferay Commerce Checkout Web,Liferay Commerce Product API,Liferay Commerce Organization API,Liferay Frontend Taglib,Liferay Commerce Currency API,OSGi System Bundle,Liferay Commerce Checkout Web,Liferay Commerce Order Web,Liferay Commerce API
+Liferay Screens Service,Liferay Dynamic Data Mapping API,Liferay Dynamic Data Lists API,Liferay Portal Spring Extender API,Liferay Blogs API,OSGi System Bundle,Liferay Screens API,Liferay Journal API,Liferay Asset Publisher API
+Liferay Asset Categories Admin Web,Liferay Frontend Taglib Clay,Liferay Portal Configuration Metatype API,Liferay Export Import API,Liferay Util Taglib,Liferay Frontend Taglib,OSGi System Bundle,Liferay Asset Category Property API,Liferay Application List API
+Liferay Polls Service,Liferay Portal Upgrade API,Liferay Export Import API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Polls API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Staging API
+Liferay Commerce Discount Rule Added Any,Liferay Commerce Product API,Liferay Item Selector API,Liferay Frontend Taglib,Liferay Item Selector Criteria API,OSGi System Bundle,Liferay Commerce Product Item Selector API,Liferay Commerce API,Liferay Commerce Discount API
+Liferay Commerce Taglib,Liferay Commerce Product API,Liferay Commerce Service,Liferay Util Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API,Liferay Commerce Price List API,Liferay Application List API
+Liferay Site Navigation Menu Web,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Export Import API,Liferay Item Selector API,Liferay Site Navigation Item Selector API,Liferay Site Navigation API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Portlet Display Template API
+Liferay Layout Type Controller Content,Liferay Portal Template Soy API,Liferay Fragment API,Liferay Product Navigation Control Menu API,Liferay Util Taglib,Liferay Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Layout Admin API,Liferay Layout Page Template API
+Liferay Dynamic Data Lists Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Dynamic Data Mapping API,Liferay Dynamic Data Lists API,Liferay Portal Configuration Metatype API,Liferay Export Import API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Commerce Product Type Virtual Order Content Web,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,Liferay Commerce Product Type Virtual Order API,Liferay Commerce Organization API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Product Type Virtual API,Liferay Commerce API,Liferay Journal API
+Liferay Commerce Organization Order Web,Liferay Commerce Product API,Liferay Frontend Taglib Clay,Liferay Portal Configuration Metatype API,Liferay Commerce Organization API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Order Web,Liferay Commerce API
+Liferay Commerce Discount Service,Liferay Commerce Product API,Liferay Commerce Organization API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API,Liferay Commerce User Segment API,Liferay Commerce Discount API,Liferay Portal Search API
+Liferay Export Import Resources Importer,Liferay Dynamic Data Mapping API,Liferay Export Import API,Liferay Dynamic Data Lists API,org.osgi.service.http,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portlet Display Template API,Liferay Journal API,Liferay Portal Search API
+Liferay Commerce Shipping Web,Liferay Commerce Admin API,Liferay Portal Configuration Metatype API,Liferay Commerce Service,Liferay Frontend Taglib,Liferay Item Selector API,Liferay Commerce Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Commerce API
+Liferay Workflow Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,Liferay Workflow Apio API,Liferay Blog Apio API,Liferay Portal Workflow Kaleo API,Liferay Media Object Apio API,OSGi System Bundle,Liferay Comment Apio API,Liferay Portal Workflow Kaleo Definition API
+Liferay OAuth2 Provider Scope Implementation,Liferay OAuth2 Provider Scope Liferay API,Liferay OAuth2 Provider Scope API,Apache Felix Declarative Services,Liferay Portal Configuration Metatype API,Apache Aries JAX-RS Specification API,Liferay OAuth2 Provider Scope SPI,OSGi System Bundle,Liferay OSGi Utilities,Liferay OAuth2 Provider API
+Liferay Chat Service,Liferay Portal Upgrade API,Liferay Chat API,Apache Felix Declarative Services,Liferay Portal Configuration Metatype API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Portal Profile API,OSGi System Bundle,Liferay Portal Configuration Persistence API
+Liferay Commerce Product Content Web,Liferay Commerce Product API,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,Liferay Commerce Product Service,Liferay Item Selector API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Product Content API,Liferay Item Selector Criteria API,Liferay Commerce Product Item Selector API
+Liferay Commerce Product Type Grouped Web,Liferay Commerce Product API,Liferay Commerce Product Service,Liferay Frontend Taglib,Liferay Item Selector API,OSGi System Bundle,Liferay Commerce Product Type Grouped API,Liferay Commerce Product Content API,Liferay Item Selector Criteria API,Liferay Commerce Product Item Selector API,Liferay Commerce Product Definitions Web
+Liferay Commerce Notification Web,Liferay Frontend Taglib Clay,Liferay Commerce Notification API,Liferay Commerce Admin API,Liferay Item Selector API,Liferay Util Taglib,Liferay Frontend Taglib,Liferay Commerce User Segment Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Commerce User Segment API
+Liferay Commerce Initializer Breccia,Liferay Commerce Product API,Liferay Commerce Initializer Utilities,Liferay Frontend Taglib,Liferay Commerce Product Type Grouped API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Product Content API,Liferay Commerce API,Liferay Site API,Liferay Commerce Product Type Virtual API
+Liferay Portal Search Web,Liferay Portal Upgrade API,Liferay Portal Instance Lifecycle API,Liferay Portal Configuration Metatype API,Liferay Portal Search Web API,Liferay Product Navigation Control Menu API,Liferay Util Taglib,OSGi System Bundle,Liferay OSGi Utilities,Liferay Layout Page Template API,Liferay Portal Search API
+Liferay Commerce User Segment Web,Liferay Roles Item Selector API,Liferay Frontend Taglib,Liferay Item Selector API,Liferay Organizations Item Selector API,Liferay Users Admin Item Selector API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay User Groups Admin Item Selector API,Liferay Commerce User Segment API,Liferay Application List API
+powwow-portlet,powwow-portlet,Liferay Portal OSGi Web WAB Generator API,Liferay Portal OSGi Web WAB Spring Bridge API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Util Taglib,Liferay Calendar API,OSGi System Bundle,Liferay Portal Remote Axis Extender,javax.servlet.jsp.jstl
+Liferay Knowledge Base Service,Liferay Portal Upgrade API,Liferay RSS API,Liferay Export Import API,Liferay Portal DAO ORM Custom SQL API,Liferay Subscription API,Liferay Portal Spring Extender API,Liferay Knowledge Base API,Liferay Knowledge Base Markdown Converter API,OSGi System Bundle,Liferay Staging API
+Liferay Dynamic Data Mapping Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Dynamic Data Mapping API,Liferay Export Import API,Liferay Portal Configuration Metatype API,Liferay Util Taglib,OSGi System Bundle,Liferay Portlet Display Template API,Liferay Application List API,Liferay Staging API
+Liferay Export Import Service,Liferay Portal Upgrade API,Liferay Portal Background Task API,Liferay Export Import API,Liferay Portal Configuration Metatype API,Apache Felix Declarative Services,Liferay Trash API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Site API,Liferay Staging API
+Liferay Portal OSGi Web WAB Extender,Http Services Servlet,Apache Felix Declarative Services,Liferay Portal Configuration Metatype API,Apache Felix EventAdmin,Liferay Portal Profile API,Liferay Portal OSGi Web Servlet Context Helper API,Liferay Portal OSGi Web Servlet API,Expression Language 3.0,OSGi System Bundle,Liferay OSGi Utilities
+Liferay Comment Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,Liferay Blog Apio API,Apache Aries JAX-RS Specification API,Liferay Blogs API,OSGi System Bundle,Liferay Media Object Apio API,Liferay Web Page Element Apio API,Liferay Comment Apio API,Liferay Journal API
+Liferay Commerce Product Asset Categories Web,Liferay Commerce Product API,Liferay Commerce Product Service,Liferay Portal Configuration Metatype API,Liferay Item Selector API,Liferay Frontend Taglib,Liferay Upload API,OSGi System Bundle,Liferay Layout Item Selector API,Liferay Item Selector Criteria API,Liferay Commerce Product Definitions Web
+Liferay Layout Page Template Service,Liferay Portal Upgrade API,Liferay Dynamic Data Mapping API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay Fragment API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Asset Display Page API,Liferay Layout Page Template API,Liferay Staging API
+Liferay Web Page Element Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,Liferay Category Apio API,OSGi System Bundle,Liferay Site Apio API,Liferay Web Page Element Apio API,Liferay Comment Apio API,Liferay Journal API,Liferay Portal Apio API,Liferay Aggregate Rating Apio API
+Liferay Bookmarks Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Trash API,Liferay Subscription API,Liferay Export Import Changeset API,Liferay Util Taglib,OSGi System Bundle,Liferay Bookmarks API,Liferay Staging API,Liferay Application List API
+Liferay Adaptive Media Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Portal Configuration Metatype API,Liferay Adaptive Media API,Liferay Blogs API,OSGi System Bundle,Liferay Adaptive Media Image API,Liferay Journal API,Liferay Portal Configuration Persistence API,Liferay Application List API
+Liferay Message Boards Service,Liferay Portal Upgrade API,Liferay RSS API,Liferay Export Import API,Liferay Portal DAO ORM Custom SQL API,Liferay Subscription API,Liferay Message Boards API,Liferay Portal Spring Extender API,Liferay Petra Model Adapter,Liferay XStream Configurator API,OSGi System Bundle,Liferay Staging API
+Liferay Dynamic Data Mapping Form Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Dynamic Data Mapping API,Liferay Portal Instance Lifecycle API,Liferay Portal Configuration Metatype API,Liferay Portal Template Soy API,Liferay Export Import API,Liferay Captcha API,Liferay Util Taglib,OSGi System Bundle,Liferay Application List API
+Liferay Category Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,Liferay Category Apio API,Liferay Blog Apio API,Liferay Blogs API,OSGi System Bundle,Liferay Media Object Apio API,Liferay Web Page Element Apio API,Liferay Vocabulary Apio API,Liferay Journal API,Liferay Portal Apio API
+Liferay Bookmarks Service,Liferay Portal Upgrade API,Liferay Export Import API,Liferay Portal DAO ORM Custom SQL API,Liferay Trash API,Liferay Subscription API,Liferay Portal Instances API,Liferay Portal Spring Extender API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Bookmarks API,Liferay Staging API
+Liferay Dynamic Data Mapping Service,Liferay Portal Upgrade API,Liferay Dynamic Data Mapping API,Liferay Export Import API,Liferay Portal Instance Lifecycle API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay XStream Configurator API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Search API,Liferay Staging API
+Liferay OAuth2 Provider REST,Liferay OAuth2 Provider Scope API,Liferay OAuth2 Provider Scope Liferay API,Liferay Portal Configuration Metatype API,Liferay OAuth2 Provider REST SPI,Apache Aries JAX-RS Specification API,Liferay Portal Cache Ehcache Provider,Liferay OAuth2 Provider Scope SPI,OSGi System Bundle,Liferay Portal Remote JAXRS Whiteboard JAXB JSON,Liferay Portal Remote JAXRS Whiteboard,Liferay OAuth2 Provider API
+Liferay Commerce Product Service,Liferay Commerce Product API,Liferay Frontend Taglib Clay,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,Liferay Portal DAO ORM Custom SQL API,Liferay Configuration Admin API,Liferay Portal Spring Extender API,OSGi System Bundle,Liferay Commerce User Segment API,Liferay Journal API,Liferay Portal Search API
+Liferay Users Admin Web,Liferay Frontend Taglib Clay,Liferay Portal Upgrade API,Liferay Users Admin API,Liferay Portal Configuration Metatype API,Liferay Configuration Admin API,Liferay Frontend Taglib,Liferay Util Taglib,Liferay Portal Configuration Upgrade API,OSGi System Bundle,Liferay Frontend Taglib Form Navigator,Liferay Application List API
+Liferay Dynamic Data Lists Service,Liferay Portal Upgrade API,Liferay Dynamic Data Mapping API,Liferay Export Import API,Liferay Dynamic Data Lists API,Liferay Portal Configuration Metatype API,Liferay Portal Instance Lifecycle API,Liferay Portal DAO ORM Custom SQL API,Liferay Portal Spring Extender API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Portal Search API,Liferay Staging API
+Liferay Fragment Web,Liferay Frontend Taglib Clay,Liferay Portal Configuration Metatype API,Liferay Fragment API,Liferay Util Taglib,Liferay Item Selector API,Liferay Frontend Taglib,Liferay Upload API,OSGi System Bundle,Liferay Item Selector Criteria API,Liferay Layout Page Template API,Liferay Staging API,Liferay Application List API
+Liferay Blog Apio Implementation,Liferay Apio Architect API,Liferay Person Apio API,Liferay Category Apio API,Liferay Blog Apio API,Apache Aries JAX-RS Specification API,Liferay Blogs API,OSGi System Bundle,Liferay Media Object Apio API,Liferay Site Apio API,Liferay Comment Apio API,Liferay Portal Apio API,Liferay Aggregate Rating Apio API
+Liferay Wiki Service,Liferay Portal Upgrade API,Liferay RSS API,Liferay Portal DAO ORM Custom SQL API,Liferay Trash API,Liferay Portal Spring Extender API,Liferay Item Selector API,Liferay Export Import API,Liferay Portal Configuration Metatype API,Liferay Wiki API,Liferay Subscription API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Staging API
+Liferay My Subscriptions Web,Liferay Portal Upgrade API,Liferay Message Boards API,Liferay Util Taglib,Liferay Blogs API,Liferay Bookmarks API,Liferay Frontend Taglib Clay,Apache Felix Declarative Services,Liferay Subscription API,Liferay Wiki API,Liferay Portal Profile API,OSGi System Bundle,Liferay Journal API,Liferay Application List API
+Liferay Export Import Web,Liferay Portal Upgrade API,Liferay Portal Background Task API,Liferay Trash API,Liferay Export Import Changeset API,Liferay Util Taglib,Liferay Frontend Taglib Clay,Liferay Dynamic Data Mapping API,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Export Import API,Apache Commons FileUpload,OSGi System Bundle,Liferay Application List API
+Liferay Commerce Order Web,Liferay Commerce Organization API,Liferay Item Selector API,Liferay Item Selector Criteria API,Liferay Commerce Product API,Liferay Frontend Taglib Clay,Liferay Commerce Admin API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Order Web,Liferay Commerce Product Item Selector API,Liferay Commerce API,Liferay Application List API
+Liferay Commerce Service,Liferay Commerce Notification API,Liferay Commerce Organization API,Liferay Portal DAO ORM Custom SQL API,Liferay Configuration Admin API,Liferay Commerce Service,Liferay Portal Spring Extender API,Liferay Commerce Price List API,Liferay Commerce User Segment API,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API
+Liferay Commerce Discount Web,Liferay Item Selector API,Liferay Util Taglib,Liferay Commerce User Segment Item Selector API,Liferay Item Selector Criteria API,Liferay Commerce User Segment API,Liferay Commerce Product API,Liferay Portal Configuration Metatype API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Product Item Selector API,Liferay Commerce API,Liferay Commerce Discount API,Liferay Application List API
+Liferay Commerce Product Type Virtual Web,Liferay Commerce Product Service,Liferay Item Selector API,Liferay Commerce Product Content API,Liferay Item Selector Criteria API,Liferay Commerce Product Type Virtual API,Liferay Commerce Product Definitions Web,Liferay Commerce Product API,Liferay Dynamic Data Mapping API,Liferay Commerce Product Type Virtual Order API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce API,Liferay Journal API
+Liferay Wiki Web,Liferay Portal Upgrade API,Liferay RSS API,Liferay Trash API,Liferay Item Selector API,Liferay Util Taglib,Liferay Upload API,Liferay Item Selector Criteria API,Liferay Asset API,Liferay Frontend Taglib Clay,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Wiki API,Liferay Subscription API,OSGi System Bundle,Liferay Application List API
+Liferay Calendar Service,Liferay Portal Upgrade API,Liferay RSS API,Liferay Portal Instance Lifecycle API,Liferay Portal DAO ORM Custom SQL API,Liferay Trash API,Liferay Portal Security Service Access Policy API,Liferay Message Boards API,Liferay Portal Spring Extender API,Liferay Calendar API,Liferay Export Import API,Liferay Portal Search SPI,Liferay Subscription API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Portal Search API,Liferay Staging API
+Liferay Message Boards Web,Liferay Portal Upgrade API,Liferay RSS API,Liferay Trash API,Liferay Message Boards API,Liferay Item Selector API,Liferay Util Taglib,Liferay Upload API,Liferay Asset API,Liferay Frontend Taglib Clay,Liferay Portal Configuration Metatype API,Liferay Document Library API,Liferay Captcha API,Liferay Subscription API,Apache Commons FileUpload,OSGi System Bundle,Liferay Application List API
+Liferay Blogs Service,Liferay Portal Upgrade API,Liferay RSS API,Liferay Portal DAO ORM Custom SQL API,Liferay Trash API,Liferay Message Boards API,Liferay Portal Spring Extender API,Liferay Blogs API,Liferay Upload API,Liferay Export Import API,Liferay Document Library API,Liferay Subscription API,Liferay Petra Model Adapter,Liferay XStream Configurator API,OSGi System Bundle,Liferay Friendly URL API,Liferay Staging API
+Liferay Knowledge Base Web,Liferay Portal Upgrade API,Liferay Message Boards API,Liferay Item Selector API,Liferay Util Taglib,Liferay Upload API,Liferay Blogs API,Liferay Knowledge Base API,Liferay Frontend Taglib Clay,Liferay Dynamic Data Mapping API,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Export Import API,Liferay Subscription API,Liferay Wiki API,OSGi System Bundle,Liferay Journal API,Liferay Application List API
+Liferay Commerce Price List Web,Liferay Commerce Product Service,Liferay Item Selector API,Liferay Util Taglib,Liferay Commerce User Segment Item Selector API,Liferay Item Selector Criteria API,Liferay Commerce Price List API,Liferay Commerce User Segment API,Liferay Commerce Product Definitions Web,Liferay Commerce Product API,Liferay Frontend Taglib Clay,Liferay Portal Configuration Metatype API,Liferay Commerce Price List Web,Liferay Frontend Taglib,Liferay Commerce Item Selector API,OSGi System Bundle,Liferay Commerce Currency API,Liferay Commerce Product Item Selector API,Liferay Application List API
+Liferay Document Library Web,Liferay Portal Upgrade API,Liferay Trash API,Liferay Export Import Changeset API,Liferay Document Library Repository Authorization API,Liferay Item Selector API,Liferay Util Taglib,Liferay Upload API,Liferay Asset API,Liferay Frontend Taglib Clay,Liferay Dynamic Data Mapping API,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Export Import API,Liferay Subscription API,Apache Commons FileUpload,OSGi System Bundle,Liferay Staging API,Liferay Application List API
+Liferay Document Library Service,Liferay Portal Upgrade API,Liferay Portal Instance Lifecycle API,Liferay Trash API,Liferay Document Library File Rank API,Liferay Document Library Sync API,Liferay Dynamic Data Mapping API,Liferay Export Import API,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Portal Search SPI,Liferay Subscription API,Liferay Petra Model Adapter,Liferay Portal Configuration Upgrade API,Liferay XStream Configurator API,OSGi System Bundle,Liferay OSGi Utilities,Liferay Portal Search API,Liferay Staging API
+Liferay Asset Publisher Web,Liferay Asset Display API,Liferay Portal Upgrade API,Liferay RSS API,Liferay Item Selector API,Liferay Portlet Display Template API,Liferay Asset API,Liferay Asset Display Page API,Liferay Site API,Liferay Layout Page Template API,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,Liferay Export Import API,Liferay Subscription API,Liferay Site Item Selector API,OSGi System Bundle,Liferay Asset Tag Stats API,Liferay Friendly URL API,Liferay Journal API,Liferay Asset Publisher API
+Liferay Commerce Product Definitions Web,Liferay Commerce Product Service,Liferay Commerce Organization API,Liferay Item Selector API,Liferay Util Taglib,Liferay Upload API,Liferay Item Selector Criteria API,Liferay Commerce User Segment API,Liferay Commerce Product Definitions Web,Liferay Commerce Product API,Liferay Frontend Taglib Clay,Liferay Dynamic Data Mapping API,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Layout Item Selector API,Liferay Commerce Currency API,Liferay Commerce Product Item Selector API,Liferay Application List API
+Liferay Blogs Web,Liferay Portal Upgrade API,Liferay RSS API,Liferay Trash API,Liferay Item Selector API,Liferay Util Taglib,Liferay Blogs API,Liferay Upload API,Liferay Item Selector Criteria API,Liferay Portlet Display Template API,Liferay Asset API,Liferay Frontend Taglib Clay,Liferay Document Library API,Liferay Portal Configuration Metatype API,Liferay Export Import API,Liferay Subscription API,Apache Commons FileUpload,OSGi System Bundle,Liferay Blogs Item Selector API,Liferay Friendly URL API,Liferay Application List API
+Liferay Layout Admin Web,Liferay Asset Display API,Liferay Portal Upgrade API,Liferay Portal Template Soy API,Liferay Item Selector API,Liferay Util Taglib,Liferay Fragment API,Liferay Product Navigation Control Menu API,Liferay Upload API,Liferay Site Navigation API,Liferay Item Selector Criteria API,Liferay Asset Display Page API,Liferay Layout Page Template API,Liferay Frontend Taglib Clay,Liferay Portal Configuration Metatype API,Liferay Export Import API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Layout Admin API,Liferay Journal API,Liferay Staging API,Liferay Application List API
+Liferay Journal Service,Liferay Portal Upgrade API,Liferay RSS API,Liferay Portal Instance Lifecycle API,Liferay Portal DAO ORM Custom SQL API,Liferay Trash API,Liferay Portal Spring Extender API,Liferay Util Taglib,Liferay Upload API,Liferay Asset Display Page API,Liferay Dynamic Data Mapping API,Liferay Export Import API,Liferay Portal Configuration Metatype API,Liferay Subscription API,Liferay Portal Configuration Upgrade API,Liferay XStream Configurator API,OSGi System Bundle,Liferay Portal Validation API,Liferay OSGi Utilities,Liferay Friendly URL API,Liferay Journal API,Liferay Portal Configuration Persistence API,Liferay Portal Search API,Liferay Staging API
+Liferay Journal Web,Liferay Asset Display API,Liferay Trash API,Liferay Item Selector API,Liferay Util Taglib,Liferay Upload API,Liferay Item Selector Criteria API,Liferay Layout Page Template API,Liferay Frontend Taglib,OSGi System Bundle,Liferay Layout Item Selector API,Liferay Portal Upgrade API,Liferay RSS API,Liferay Export Import Changeset API,Liferay Message Boards API,Liferay Asset Display Page Item Selector API,Liferay Asset Display Page API,Liferay Frontend Taglib Clay,Liferay Dynamic Data Mapping API,Liferay Portal Configuration Metatype API,Liferay Subscription API,Apache Commons FileUpload,Liferay Journal API,Liferay Frontend Taglib Form Navigator,Liferay Staging API,Liferay Application List API

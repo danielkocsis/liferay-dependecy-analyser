@@ -1,22 +1,18 @@
 package com.liferay.laocoon.analyser;
 
-import com.liferay.laocoon.analyser.domain.Module;
 import com.liferay.laocoon.analyser.domain.ModuleFramework;
+import com.liferay.laocoon.analyser.service.ExporterService;
 import com.liferay.laocoon.analyser.service.LiferayModuleFrameworkService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.stereotype.Component;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
+import java.util.Optional;
 
 @SpringBootApplication
 public class LaocoonAnalyserServiceApplication {
@@ -34,46 +30,39 @@ public class LaocoonAnalyserServiceApplication {
         private final LiferayModuleFrameworkService
             liferayModuleFrameworkService;
 
+        private List<ExporterService> exporterServices;
+        private final ConfigurableApplicationContext
+            configurableApplicationContext;
+
         @Override
-        public void run(String... args) throws IOException {
-            ModuleFramework moduleFramework =
+        public void run(String... args) {
+            Optional<ModuleFramework> moduleFramework =
                 liferayModuleFrameworkService.buildModuleFramework();
 
-            File logFile = new File("modules.out");
+            if (!moduleFramework.isPresent()) {
+                log.error(
+                    "Unable to process Liferay module framework. Exiting...");
 
-            try (BufferedWriter writer =
-                     new BufferedWriter(new FileWriter(logFile))) {
+                return;
+            }
 
-                List<Module> modules = new ArrayList<>(
-                    moduleFramework.getModules());
+            for (ExporterService exporterService : exporterServices) {
+                try {
+                    exporterService.export(moduleFramework.get());
 
-                modules.sort(
-                    Comparator.comparingInt(
-                        a -> a.getDependentModules().size()));
-
-                for (Module module : modules) {
-                    writer.write(printModule(module));
-                    writer.newLine();
+                    log.debug(
+                        "Liferay module framework was successfully exported " +
+                            "with " + exporterService.getClass().getName());
+                } catch (Exception e) {
+                    log.error(
+                        "Unable to export module framework with " +
+                            exporterService.getClass().getName() + " exporter",
+                        e);
                 }
             }
-        }
 
-        private String printModule(Module module) {
-            StringBuilder stringBuilder = new StringBuilder();
-
-            stringBuilder
-                .append("Name: ")
-                .append(module.getName())
-                .append(" (")
-                .append(module.getDependentModules().size())
-                .append(") {");
-
-            module.getDependentModules()
-                .forEach(m -> stringBuilder.append(m.getName()).append(", "));
-
-            stringBuilder.append("}");
-
-            return stringBuilder.toString();
+            configurableApplicationContext.close();
+            System.exit(0);
         }
     }
 

@@ -22,18 +22,19 @@ import java.util.UUID;
 @Service
 public class LiferayModuleFrameworkService {
 
-    public ModuleFramework buildModuleFramework() {
+    public Optional<ModuleFramework> buildModuleFramework() {
         ModuleFramework moduleFramework = new ModuleFramework(
             UUID.randomUUID().toString());
 
         try {
             readFromLiferay(moduleFramework);
         } catch (Exception e) {
-            log.error(
-                "Unable to communicate with Liferay Portal via Telnet", e);
+            log.error("Unable to read from Liferay.", e);
+
+            return Optional.empty();
         }
 
-        return moduleFramework;
+        return Optional.of(moduleFramework);
     }
 
     private void readFromLiferay(ModuleFramework moduleFramework)
@@ -55,7 +56,7 @@ public class LiferayModuleFrameworkService {
 
             moduleFramework.processModuleDependencies();
         } finally {
-            log.debug("Reading fro Liferay Portal has ended.");
+            log.debug("Reading from Liferay Portal has ended.");
         }
     }
 
