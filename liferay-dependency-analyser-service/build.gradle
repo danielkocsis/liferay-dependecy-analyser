@@ -16,6 +16,10 @@ apply plugin: 'io.spring.dependency-management'
 
 sourceCompatibility = 1.8
 
+task run(dependsOn: bootRun) << {
+	println 'bootRun task started...'
+}
+
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-data-neo4j')
 	compile('org.springframework.retry:spring-retry')
